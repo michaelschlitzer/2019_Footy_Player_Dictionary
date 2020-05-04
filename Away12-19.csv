@@ -1,0 +1,1584 @@
+Year,Round,Away,Away Score,Home Field-A,Away State
+2019,R1G2,Richmond,97,MCG,VIC
+2019,R1G2,Geelong,72,Kardinia Park,VIC
+2019,R1G3,Port Adelaide,87,Adelaide Oval,SA
+2019,r1g4,Hawthorn,87,MCG,VIC
+2019,r1g5,Sydney,65,SCG,NSW
+2019,r1g6,West Coast,58,Perth Stadium,WA
+2019,r1g7,Gold Coast,84,Metricon,QLD
+2019,r1g8,Essendon,40,Docklands,VIC
+2019,r1g9,North Melbourne,59,Docklands,VIC
+2019,r2g1,Collingwood,110,MCG,VIC
+2019,r2g2,Adelaide,88,Adelaide Oval,SA
+2019,r2g3,St. Kilda,76,Docklands,VIC
+2019,r2g4,Carlton,72,Docklands,VIC
+2019,r2g5,Greater Western Sydney,52,Sydney Showground,NSW
+2019,r2g6,Melbourne,46,MCG,VIC
+2019,r2g7,Brisbane,107,Gabba,QLD
+2019,r2g8,Western Bulldogs,106,Docklands,VIC
+2019,r2g9,Fremantle,58,Perth Stadium,WA
+2019,r3g1,Geelong,99,Kardinia Park,VIC
+2019,r3g2,Essendon,130,Docklands,VIC
+2019,r3g3,Sydney,93,SCG,NSW
+2019,r3g4,Richmond,76,MCG,VIC
+2019,r3g5,Port Adelaide,90,Adelaide Oval,SA
+2019,r3g6,West Coast,98,Perth Stadium,WA
+2019,r3g7,Gold Coast,73,Metricon,QLD
+2019,r3g8,North Melbourne,71,Docklands,VIC
+2019,r3g9,St. Kilda,66,Docklands,VIC
+2019,r4g1,Melbourne,100,MCG,VIC
+2019,r4g2,Western Bulldogs,64,Docklands,VIC
+2019,r4g3,Greater Western Sydney,79,Sydney Showground,NSW
+2019,r4g4,Brisbane,65,Gabba,QLD
+2019,r4g5,Richmond,99,MCG,VIC
+2019,r4g6,Adelaide,59,Adelaide Oval,SA
+2019,r4g7,Fremantle,56,Perth Stadium,WA
+2019,r4g8,Carlton,57,Docklands,VIC
+2019,r4g9,Hawthorn,69,MCG,VIC
+2019,r5g1,Collingwood,123,MCG,VIC
+2019,r5g2,Essendon,116,Docklands,VIC
+2019,r5g3,Port Adelaide,95,Adelaide Oval,SA
+2019,r5g4,Fremantle,106,Perth Stadium,WA
+2019,r5g5,St. Kilda,95,Docklands,VIC
+2019,r5g6,Sydney,67,SCG,NSW
+2019,r5g7,Carlton,101,Docklands,VIC
+2019,r5g8,Gold Coast,46,Metricon,QLD
+2019,r5g9,Geelong,113,Kardinia Park,VIC
+2019,r6g1,Melbourne,42,MCG,VIC
+2019,r6g2,Collingwood,73,MCG,VIC
+2019,r6g3,North Melbourne,72,Docklands,VIC
+2019,r6g4,Brisbane,111,Gabba,QLD
+2019,r6g5,Adelaide,97,Adelaide Oval,SA
+2019,r6g6,Greater Western Sydney,120,Sydney Showground,NSW
+2019,r6g7,Western Bulldogs,69,Docklands,VIC
+2019,r6g8,Carlton,88,Docklands,VIC
+2019,r6g9,West Coast,46,Perth Stadium,WA
+2019,r7g1,Port Adelaide,69,Adelaide Oval,SA
+2019,r7g2,Hawthorn,74,MCG,VIC
+2019,r7g3,St. Kilda,70,Docklands,VIC
+2019,r7g4,Sydney,81,SCG,NSW
+2019,r7g5,Richmond,52,MCG,VIC
+2019,r7g6,Gold Coast,57,Metricon,QLD
+2019,r7g7,North Melbourne,120,Docklands,VIC
+2019,r7g8,Essendon,54,Docklands,VIC
+2019,r7g9,Fremantle,34,Perth Stadium,WA
+2019,r8g1,Essendon,72,Docklands,VIC
+2019,r8g2,Brisbane,76,Gabba,QLD
+2019,r8g3,Collingwood,106,MCG,VIC
+2019,r8g4,Melbourne,61,MCG,VIC
+2019,r8g5,West Coast,88,Perth Stadium,WA
+2019,r8g6,Adelaide,88,Adelaide Oval,SA
+2019,r8g7,Geelong,104,Kardinia Park,VIC
+2019,r8g8,Greater Western Sydney,38,Sydney Showground,NSW
+2019,r8g9,Richmond,111,MCG,VIC
+2019,r9g1,Melbourne,69,MCG,VIC
+2019,r9g2,St. Kilda,71,Docklands,VIC
+2019,r9g3,Adelaide,92,Adelaide Oval,SA
+2019,r9g4,Western Bulldogs,89,Docklands,VIC
+2019,r9g5,Fremantle,53,Perth Stadium,WA
+2019,r9g6,Sydney,77,SCG,NSW
+2019,r9g7,Gold Coast,51,Metricon,QLD
+2019,r9g8,Hawthorn,59,MCG,VIC
+2019,r9g9,Carlton,45,Docklands,VIC
+2019,r10g1,Collingwood,80,MCG,VIC
+2019,r10g2,Port Adelaide,49,Adelaide Oval,SA
+2019,r10g3,North Melbourne,115,Docklands,VIC
+2019,r10g4,West Coast,85,Perth Stadium,WA
+2019,r10g5,Geelong,91,Kardinia Park,VIC
+2019,r10g6,Essendon,50,Docklands,VIC
+2019,r10g7,Greater Western Sydney,94,Sydney Showground,NSW
+2019,r10g8,Carlton,55,Docklands,VIC
+2019,r10g9,Brisbane,72,Gabba,QLD
+2019,r11g1,Richmond,62,MCG,VIC
+2019,r11g2,Fremantle,79,Perth Stadium,WA
+2019,r11g3,Gold Coast,43,Metricon,QLD
+2019,r11g4,Sydney,63,SCG,NSW
+2019,r11g5,Hawthorn,66,MCG,VIC
+2019,r11g6,Adelaide,90,Adelaide Oval,SA
+2019,r11g7,Port Adelaide,139,Adelaide Oval,SA
+2019,r11g8,Carlton,33,Docklands,VIC
+2019,r11g9,Western Bulldogs,72,Docklands,VIC
+2019,r12g1,Geelong,104,Kardinia Park,VIC
+2019,r12g2,Brisbane,63,Gabba,QLD
+2019,r12g3,North Melbourne,99,Docklands,VIC
+2019,r12g4,Greater Western Sydney,61,Sydney Showground,NSW
+2019,r12g5,West Coast,71,Perth Stadium,WA
+2019,r12g6,Melbourne,57,MCG,VIC
+2019,r13g1,Richmond,68,MCG,VIC
+2019,r13g2,Hawthorn,77,MCG,VIC
+2019,r13g3,St. Kilda,80,Docklands,VIC
+2019,r13g4,Port Adelaide,79,Adelaide Oval,SA
+2019,r13g5,Western Bulldogs,103,Docklands,VIC
+2019,r13g6,Greater Western Sydney,91,Sydney Showground,NSW
+2019,r14g1,Essendon,71,Docklands,VIC
+2019,r14g2,Hawthorn,63,MCG,VIC
+2019,r14g3,Fremantle,71,Perth Stadium,WA
+2019,r14g4,Brisbane,115,Gabba,QLD
+2019,r14g5,Geelong,56,Kardinia Park,VIC
+2019,r14g6,Collingwood,82,MCG,VIC
+2019,r15g1,Greater Western Sydney,71,Sydney Showground,NSW
+2019,r15g2,Adelaide,69,Adelaide Oval,SA
+2019,r15g3,West Coast,77,Perth Stadium,WA
+2019,r15g4,Gold Coast,51,Metricon,QLD
+2019,r15g5,North Melbourne,81,Docklands,VIC
+2019,r15g6,Western Bulldogs,66,Docklands,VIC
+2019,r15g7,Richmond,103,MCG,VIC
+2019,r15g8,Melbourne,74,MCG,VIC
+2019,r15g9,Carlton,79,Docklands,VIC
+2019,r16g1,Collingwood,63,MCG,VIC
+2019,r16g2,Sydney,66,SCG,NSW
+2019,r16g3,Richmond,150,MCG,VIC
+2019,r16g4,Port Adelaide,101,Adelaide Oval,SA
+2019,r16g5,Geelong,55,Kardinia Park,VIC
+2019,r16g6,West Coast,122,Perth Stadium,WA
+2019,r16g7,Melbourne,105,MCG,VIC
+2019,r16g8,St. Kilda,73,Docklands,VIC
+2019,r16g9,Brisbane,94,Gabba,QLD
+2019,r17g1,Collingwood,78,MCG,VIC
+2019,r17g2,Carlton,69,Docklands,VIC
+2019,r17g3,Fremantle,53,Perth Stadium,WA
+2019,r17g4,North Melbourne,81,Docklands,VIC
+2019,r17g5,Adelaide,151,Adelaide Oval,SA
+2019,r17g6,St. Kilda,57,Docklands,VIC
+2019,r17g7,Greater Western Sydney,67,Sydney Showground,NSW
+2019,r17g8,Melbourne,66,MCG,VIC
+2019,r17g9,Brisbane,97,Gabba,QLD
+2019,r18g1,Essendon,96,Docklands,VIC
+2019,r18g2,Port Adelaide,63,Adelaide Oval,SA
+2019,r18g3,Gold Coast,75,Metricon,QLD
+2019,r18g4,Collingwood,75,MCG,VIC
+2019,r18g5,North Melbourne,75,Docklands,VIC
+2019,r18g6,Sydney,51,SCG,NSW
+2019,r18g7,Hawthorn,85,MCG,VIC
+2019,r18g8,West Coast,91,Perth Stadium,WA
+2019,r18g9,Western Bulldogs,89,Docklands,VIC
+2019,r19g1,Richmond,98,MCG,VIC
+2019,r19g2,Brisbane,87,Gabba,QLD
+2019,r19g3,Adelaide,60,Adelaide Oval,SA
+2019,r19g4,North Melbourne,72,Docklands,VIC
+2019,r19g5,Melbourne,85,MCG,VIC
+2019,r19g6,Greater Western Sydney,56,Sydney Showground,NSW
+2019,r19g7,Fremantle,66,Perth Stadium,WA
+2019,r19g8,Geelong,107,Kardinia Park,VIC
+2019,r19g9,Essendon,106,Docklands,VIC
+2019,r20g1,Hawthorn,64,MCG,VIC
+2019,r20g2,Port Adelaide,126,Adelaide Oval,SA
+2019,r20g3,Sydney,81,SCG,NSW
+2019,r20g4,Geelong,61,Kardinia Park,VIC
+2019,r20g5,Richmond,93,MCG,VIC
+2019,r20g6,St. Kilda,70,Docklands,VIC
+2019,r20g7,Gold Coast,51,Metricon,QLD
+2019,r20g8,West Coast,99,Perth Stadium,WA
+2019,r20g9,Western Bulldogs,80,Docklands,VIC
+2019,r21g1,Hawthorn,85,MCG,VIC
+2019,r21g2,Collingwood,70,MCG,VIC
+2019,r21g3,Sydney,56,SCG,NSW
+2019,r21g4,Gold Coast,53,Metricon,QLD
+2019,r21g5,Western Bulldogs,137,Docklands,VIC
+2019,r21g6,North Melbourne,14,Docklands,VIC
+2019,r21g7,Fremantle,69,Perth Stadium,WA
+2019,r21g8,Carlton,45,Docklands,VIC
+2019,r21g9,Adelaide,80,Adelaide Oval,SA
+2019,r22g1,Sydney,95,SCG,NSW
+2019,r22g2,St. Kilda,68,Docklands,VIC
+2019,r22g3,Geelong,74,Kardinia Park,VIC
+2019,r22g4,Collingwood,114,MCG,VIC
+2019,r22g5,Port Adelaide,58,Adelaide Oval,SA
+2019,r22g6,Essendon,87,Docklands,VIC
+2019,r22g7,West Coast,82,Perth Stadium,WA
+2019,r22g8,Western Bulldogs,126,Docklands,VIC
+2019,r22g9,Gold Coast,48,Metricon,QLD
+2019,r23g1,Essendon,65,Docklands,VIC
+2019,r23g2,St. Kilda,64,Docklands,VIC
+2019,r23g3,Melbourne,83,MCG,VIC
+2019,r23g4,Carlton,61,Docklands,VIC
+2019,r23g5,Greater Western Sydney,127,Sydney Showground,NSW
+2019,r23g6,Hawthorn,105,MCG,VIC
+2019,r23g7,Adelaide,87,Adelaide Oval,SA
+2019,r23g8,Brisbane,55,Gabba,QLD
+2019,r23g9,Fremantle,67,Perth Stadium,WA
+2018,r1g1,Carlton,95,Docklands,VIC
+2018,r1g2,Adelaide,87,Adelaide Oval,SA
+2018,r1g3,Brisbane,82,Gabba,QLD
+2018,r1g4,Fremantle,60,Perth Stadium,WA
+2018,r1g5,North Melbourne,39,Docklands,VIC
+2018,r1g6,Collingwood,67,MCG,VIC
+2018,r1g7,Western Bulldogs,51,Docklands,VIC
+2018,r1g8,Geelong,97,Kardinia Park,VIC
+2018,r1g9,Sydney,115,SCG,NSW
+2018,r2g1,Richmond,82,MCG,VIC
+2018,r2g2,St. Kilda,43,Docklands,VIC
+2018,r2g3,Gold Coast,101,Metricon,QLD
+2018,r2g4,Greater Western Sydney,95,Sydney Showground,NSW
+2018,r2g5,Melbourne,100,MCG,VIC
+2018,r2g6,Essendon,90,Docklands,VIC
+2018,r2g7,West Coast,121,Perth Stadium,WA
+2018,r2g8,Port Adelaide,94,Adelaide Oval,SA
+2018,r2g9,Hawthorn,118,MCG,VIC
+2018,r3g1,Collingwood,100,MCG,VIC
+2018,r3g2,Brisbane,92,Gabba,QLD
+2018,r3g3,North Melbourne,86,Docklands,VIC
+2018,r3g4,Fremantle,96,Perth Stadium,WA
+2018,r3g5,Greater Western Sydney,87,Sydney Showground,NSW
+2018,r3g6,Adelaide,104,Adelaide Oval,SA
+2018,r3g7,Hawthorn,89,MCG,VIC
+2018,r3g8,Essendon,83,Docklands,VIC
+2018,r3g9,Geelong,80,Kardinia Park,VIC
+2018,r4g1,Collingwood,106,MCG,VIC
+2018,r4g2,Fremantle,51,Perth Stadium,WA
+2018,r4g3,Brisbane,17,Gabba,QLD
+2018,r4g4,Sydney,86,SCG,NSW
+2018,r4g5,Carlton,30,Docklands,VIC
+2018,r4g6,Gold Coast,59,Metricon,QLD
+2018,r4g7,Port Adelaide,84,Adelaide Oval,SA
+2018,r4g8,Melbourne,48,MCG,VIC
+2018,r4g9,St. Kilda,56,Docklands,VIC
+2018,r5g1,Adelaide,85,Adelaide Oval,SA
+2018,r5g2,Greater Western Sydney,73,Sydney Showground,NSW
+2018,r5g3,West Coast,79,Perth Stadium,WA
+2018,r5g4,Geelong,84,Kardinia Park,VIC
+2018,r5g5,Western Bulldogs,54,Docklands,VIC
+2018,r5g6,Hawthorn,70,MCG,VIC
+2018,r5g7,Gold Coast,76,Metricon,QLD
+2018,r5g8,Richmond,102,MCG,VIC
+2018,r5g9,Essendon,52,Docklands,VIC
+2018,r6g1,Carlton,59,Docklands,VIC
+2018,r6g2,Sydney,86,SCG,NSW
+2018,r6g3,Port Adelaide,102,Adelaide Oval,SA
+2018,r6g4,Brisbane,43,Gabba,QLD
+2018,r6g5,St. Kilda,54,Docklands,VIC
+2018,r6g6,Gold Coast,62,Metricon,QLD
+2018,r6g7,Melbourne,108,MCG,VIC
+2018,r6g8,Richmond,113,MCG,VIC
+2018,r6g9,West Coast,89,Perth Stadium,WA
+2018,r7g1,Greater Western Sydney,32,Sydney Showground,NSW
+2018,r7g2,Gold Coast,72,Metricon,QLD
+2018,r7g3,Hawthorn,90,MCG,VIC
+2018,r7g4,Port Adelaide,60,Adelaide Oval,SA
+2018,r7g5,North Melbourne,68,Docklands,VIC
+2018,r7g6,Carlton,70,Docklands,VIC
+2018,r7g7,Fremantle,33,Perth Stadium,WA
+2018,r7g8,Melbourne,106,MCG,VIC
+2018,r7g9,Collingwood,121,MCG,VIC
+2018,r8g1,Sydney,79,SCG,NSW
+2018,r8g2,West Coast,86,Perth Stadium,WA
+2018,r8g3,Essendon,78,Docklands,VIC
+2018,r8g4,Melbourne,146,MCG,VIC
+2018,r8g5,Adelaide,90,Adelaide Oval,SA
+2018,r8g6,Brisbane,93,Gabba,QLD
+2018,r8g7,St. Kilda,59,Docklands,VIC
+2018,r8g8,Richmond,82,MCG,VIC
+2018,r8g9,Geelong,66,Kardinia Park,VIC
+2018,r9g1,Western Bulldogs,26,Docklands,VIC
+2018,r9g2,Greater Western Sydney,69,Sydney Showground,NSW
+2018,r9g3,Port Adelaide,82,Adelaide Oval,SA
+2018,r9g4,Geelong,50,Kardinia Park,VIC
+2018,r9g5,Fremantle,52,Perth Stadium,WA
+2018,r9g6,Collingwood,100,MCG,VIC
+2018,r9g7,Melbourne,159,MCG,VIC
+2018,r9g8,Hawthorn,73,MCG,VIC
+2018,r9g9,Richmond,83,MCG,VIC
+2018,r10g1,Western Bulldogs,55,Docklands,VIC
+2018,r10g2,St. Kilda,77,Docklands,VIC
+2018,r10g3,Sydney,67,SCG,NSW
+2018,r10g4,Carlton,45,Docklands,VIC
+2018,r10g5,Essendon,95,Docklands,VIC
+2018,r10g6,West Coast,75,Perth Stadium,WA
+2018,r10g7,Adelaide,55,Adelaide Oval,SA
+2018,r10g8,North Melbourne,86,Docklands,VIC
+2018,r11g1,Carlton,61,Docklands,VIC
+2018,r11g2,Melbourne,100,MCG,VIC
+2018,r11g3,Port Adelaide,61,Adelaide Oval,SA
+2018,r11g4,Geelong,121,Kardinia Park,VIC
+2018,r11g5,Richmond,114,MCG,VIC
+2018,r11g6,St. Kilda,88,Docklands,VIC
+2018,r11g7,Brisbane,87,Gabba,QLD
+2018,r11g8,Fremantle,77,Perth Stadium,WA
+2018,r11g9,Greater Western Sydney,97,Sydney Showground,NSW
+2018,r12g1,Richmond,58,MCG,VIC
+2018,r12g2,North Melbourne,59,Docklands,VIC
+2018,r12g3,Gold Coast,26,Metricon,QLD
+2018,r12g4,Sydney,126,SCG,NSW
+2018,r12g5,Essendon,84,Docklands,VIC
+2018,r12g6,Adelaide,68,Adelaide Oval,SA
+2018,r12g7,Collingwood,133,MCG,VIC
+2018,r13g1,Western Bulldogs,75,Docklands,VIC
+2018,r13g2,West Coast,57,Perth Stadium,WA
+2018,r13g3,Fremantle,103,Perth Stadium,WA
+2018,r13g4,St. Kilda,80,Docklands,VIC
+2018,r13g5,Adelaide,32,Adelaide Oval,SA
+2018,r13g6,Richmond,83,MCG,VIC
+2018,r14g1,Essendon,80,Docklands,VIC
+2018,r14g2,Melbourne,65,MCG,VIC
+2018,r14g3,Gold Coast,43,Metricon,QLD
+2018,r14g4,Greater Western Sydney,109,Sydney Showground,NSW
+2018,r14g5,North Melbourne,77,Docklands,VIC
+2018,r14g6,Carlton,59,Docklands,VIC
+2018,r15g1,Sydney,67,SCG,NSW
+2018,r15g2,Geelong,101,Kardinia Park,VIC
+2018,r15g3,Port Adelaide,90,Adelaide Oval,SA
+2018,r15g4,West Coast,78,Perth Stadium,WA
+2018,r15g5,Collingwood,99,MCG,VIC
+2018,r15g6,Hawthorn,84,MCG,VIC
+2018,r15g7,St. Kilda,119,Docklands,VIC
+2018,r15g8,North Melbourne,108,Docklands,VIC
+2018,r15g9,Brisbane,119,Gabba,QLD
+2018,r16g1,Geelong,71,Kardinia Park,VIC
+2018,r16g2,Adelaide,56,Adelaide Oval,SA
+2018,r16g3,Carlton,55,Docklands,VIC
+2018,r16g4,St. Kilda,50,Docklands,VIC
+2018,r16g5,Hawthorn,122,MCG,VIC
+2018,r16g6,Fremantle,48,Perth Stadium,WA
+2018,r16g7,Gold Coast,58,Metricon,QLD
+2018,r16g8,Collingwood,78,MCG,VIC
+2018,r16g9,Greater Western Sydney,75,Sydney Showground,NSW
+2018,r17g1,Geelong,97,Kardinia Park,VIC
+2018,r17g2,Carlton,52,Docklands,VIC
+2018,r17g3,Brisbane,98,Gabba,QLD
+2018,r17g4,Western Bulldogs,69,Docklands,VIC
+2018,r17g5,Essendon,95,Docklands,VIC
+2018,r17g6,Richmond,77,MCG,VIC
+2018,r17g7,West Coast,102,Perth Stadium,WA
+2018,r17g8,Sydney,104,SCG,NSW
+2018,r17g9,Port Adelaide,50,Adelaide Oval,SA
+2018,r18g1,Richmond,111,MCG,VIC
+2018,r18g2,North Melbourne,64,Docklands,VIC
+2018,r18g3,Gold Coast,88,Metricon,QLD
+2018,r18g4,Fremantle,70,Perth Stadium,WA
+2018,r18g5,Adelaide,93,Adelaide Oval,SA
+2018,r18g6,Melbourne,98,MCG,VIC
+2018,r18g7,Hawthorn,124,MCG,VIC
+2018,r18g8,Western Bulldogs,46,Docklands,VIC
+2018,r18g9,Greater Western Sydney,80,Sydney Showground,NSW
+2018,r19g1,Sydney,66,SCG,NSW
+2018,r19g2,Collingwood,77,MCG,VIC
+2018,r19g3,Brisbane,78,Gabba,QLD
+2018,r19g4,St. Kilda,61,Docklands,VIC
+2018,r19g5,Carlton,79,Docklands,VIC
+2018,r19g6,Melbourne,90,MCG,VIC
+2018,r19g7,West Coast,41,Perth Stadium,WA
+2018,r19g8,Port Adelaide,78,Adelaide Oval,SA
+2018,r19g9,Hawthorn,112,MCG,VIC
+2018,r20g1,Geelong,82,Kardinia Park,VIC
+2018,r20g2,Essendon,103,Docklands,VIC
+2018,r20g3,North Melbourne,107,Docklands,VIC
+2018,r20g4,Port Adelaide,93,Adelaide Oval,SA
+2018,r20g5,Western Bulldogs,103,Docklands,VIC
+2018,r20g6,Collingwood,71,MCG,VIC
+2018,r20g7,Greater Western Sydney,151,Sydney Showground,NSW
+2018,r20g8,Gold Coast,47,Metricon,QLD
+2018,r20g9,Fremantle,84,Perth Stadium,WA
+2018,r21g1,St. Kilda,79,Docklands,VIC
+2018,r21g2,Geelong,60,Kardinia Park,VIC
+2018,r21g3,Richmond,125,MCG,VIC
+2018,r21g4,West Coast,62,Perth Stadium,WA
+2018,r21g5,Brisbane,73,Gabba,QLD
+2018,r21g6,Adelaide,92,Adelaide Oval,SA
+2018,r21g7,Western Bulldogs,92,Docklands,VIC
+2018,r21g8,Sydney,87,SCG,NSW
+2018,r21g9,Carlton,72,Docklands,VIC
+2018,r22g1,Essendon,73,Docklands,VIC
+2018,r22g2,Port Adelaide,64,Adelaide Oval,SA
+2018,r22g3,Fremantle,25,Perth Stadium,WA
+2018,r22g4,Sydney,80,SCG,NSW
+2018,r22g5,Brisbane,78,Gabba,QLD
+2018,r22g6,Hawthorn,80,MCG,VIC
+2018,r22g7,Western Bulldogs,66,Docklands,VIC
+2018,r22g8,Melbourne,108,MCG,VIC
+2018,r22g9,North Melbourne,77,Docklands,VIC
+2018,r23g1,Essendon,111,Docklands,VIC
+2018,r23g2,Gold Coast,40,Metricon,QLD
+2018,r23g3,Western Bulldogs,95,Docklands,VIC
+2018,r23g4,Collingwood,76,MCG,VIC
+2018,r23g5,Adelaide,165,Adelaide Oval,SA
+2018,r23g6,Hawthorn,83,MCG,VIC
+2018,r23g7,West Coast,98,Perth Stadium,WA
+2018,r23g8,Greater Western Sydney,57,Sydney Showground,NSW
+2018,r23g9,North Melbourne,117,Docklands,VIC
+2017,r1g1,Richmond,132,MCG,VIC
+2017,r1g2,Western Bulldogs,100,Docklands,VIC
+2017,r1g3,Port Adelaide,110,Adelaide Oval,SA
+2017,r1g4,Melbourne,120,MCG,VIC
+2017,r1g5,Hawthorn,91,MCG,VIC
+2017,r1g6,Brisbane,98,Gabba,QLD
+2017,r1g7,West Coast,136,Perth Stadium,WA
+2017,r1g8,Greater Western Sydney,91,Sydney Showground,NSW
+2017,r1g9,Geelong,115,Kardinia Park,VIC
+2017,r2g1,Collingwood,80,MCG,VIC
+2017,r2g2,Sydney,87,SCG,NSW
+2017,r2g3,Adelaide,113,Adelaide Oval,SA
+2017,r2g4,Gold Coast,58,Metricon,QLD
+2017,r2g5,Essendon,111,Docklands,VIC
+2017,r2g6,St. Kilda,97,Docklands,VIC
+2017,r2g7,North Melbourne,111,Docklands,VIC
+2017,r2g8,Carlton,64,Docklands,VIC
+2017,r2g9,Fremantle,56,Perth Stadium,WA
+2017,r3g1,Collingwood,80,MCG,VIC
+2017,r3g2,Greater Western Sydney,109,Sydney Showground,NSW
+2017,r3g3,West Coast,65,Perth Stadium,WA
+2017,r3g4,Melbourne,97,MCG,VIC
+2017,r3g5,Adelaide,100,Adelaide Oval,SA
+2017,r3g6,Western Bulldogs,73,Docklands,VIC
+2017,r3g7,Brisbane,76,Gabba,QLD
+2017,r3g8,Essendon,42,Docklands,VIC
+2017,r3g9,Hawthorn,53,MCG,VIC
+2017,r4g1,Sydney,65,SCG,NSW
+2017,r4g2,Western Bulldogs,89,Docklands,VIC
+2017,r4g3,Fremantle,106,Perth Stadium,WA
+2017,r4g4,Port Adelaide,81,Adelaide Oval,SA
+2017,r4g5,Gold Coast,108,Metricon,QLD
+2017,r4g6,Essendon,88,Docklands,VIC
+2017,r4g7,St. Kilda,69,Docklands,VIC
+2017,r4g8,Richmond,119,MCG,VIC
+2017,r4g9,Geelong,134,Kardinia Park,VIC
+2017,r5g1,Carlton,47,Docklands,VIC
+2017,r5g2,Brisbane,90,Gabba,QLD
+2017,r5g3,Adelaide,153,Adelaide Oval,SA
+2017,r5g4,Greater Western Sydney,105,Sydney Showground,NSW
+2017,r5g5,North Melbourne,62,Docklands,VIC
+2017,r5g6,Geelong,126,Kardinia Park,VIC
+2017,r5g7,West Coast,75,Perth Stadium,WA
+2017,r5g8,Melbourne,75,MCG,VIC
+2017,r5g9,Collingwood,82,MCG,VIC
+2017,r6g1,Western Bulldogs,73,Docklands,VIC
+2017,r6g2,St. Kilda,130,Docklands,VIC
+2017,r6g3,Sydney,78,SCG,NSW
+2017,r6g4,Port Adelaide,450,Adelaide Oval,SA
+2017,r6g5,Gold Coast,94,Metricon,QLD
+2017,r6g6,Fremantle,62,Perth Stadium,WA
+2017,r6g7,Melbourne,112,MCG,VIC
+2017,r6g8,Collingwood,107,MCG,VIC
+2017,r6g9,Richmond,64,MCG,VIC
+2017,r7g1,Greater Western Sydney,85,Sydney Showground,NSW
+2017,r7g2,Adelaide,86,Adelaide Oval,SA
+2017,r7g3,Carlton,79,Docklands,VIC
+2017,r7g4,West Coast,97,Perth Stadium,WA
+2017,r7g5,Geelong,99,Kardinia Park,VIC
+2017,r7g6,Richmond,75,MCG,VIC
+2017,r7g7,Brisbane,81,Gabba,QLD
+2017,r7g8,Hawthorn,94,MCG,VIC
+2017,r7g9,Essendon,79,Docklands,VIC
+2017,r8g1,Western Bulldogs,61,Docklands,VIC
+2017,r8g2,Brisbane,75,Gabba,QLD
+2017,r8g3,Carlton,66,Docklands,VIC
+2017,r8g4,Collingwood,99,MCG,VIC
+2017,r8g5,Geelong,93,Kardinia Park,VIC
+2017,r8g6,Melbourne,107,MCG,VIC
+2017,r8g7,Fremantle,72,Perth Stadium,WA
+2017,r8g8,Port Adelaide,110,Adelaide Oval,SA
+2017,r8g9,Sydney,120,SCG,NSW
+2017,r9g1,Western Bulldogs,81,Docklands,VIC
+2017,r9g2,Sydney,118,SCG,NSW
+2017,r9g3,Richmond,75,MCG,VIC
+2017,r9g4,Adelaide,140,Adelaide Oval,SA
+2017,r9g5,Hawthorn,72,MCG,VIC
+2017,r9g6,West Coast,64,Perth Stadium,WA
+2017,r9g7,North Melbourne,104,Docklands,VIC
+2017,r9g8,Carlton,51,Docklands,VIC
+2017,r10g1,Port Adelaide,79,Adelaide Oval,SA
+2017,r10g2,Hawthorn,81,MCG,VIC
+2017,r10g3,St. Kilda,50,Docklands,VIC
+2017,r10g4,Gold Coast,87,Metricon,QLD
+2017,r10g5,Essendon,66,Docklands,VIC
+2017,r10g6,Fremantle,43,Perth Stadium,WA
+2017,r10g7,Brisbane,84,Gabba,QLD
+2017,r10g8,North Melbourne,113,Docklands,VIC
+2017,r10g9,Greater Western Sydney,98,Sydney Showground,NSW
+2017,r11g1,Hawthorn,47,MCG,VIC
+2017,r11g2,Adelaide,74,Adelaide Oval,SA
+2017,r11g3,West Coast,77,Perth Stadium,WA
+2017,r11g4,Essendon,101,Docklands,VIC
+2017,r11g5,Richmond,101,MCG,VIC
+2017,r11g6,Collingwood,105,MCG,VIC
+2017,r12g1,Western Bulldogs,42,Docklands,VIC
+2017,r12g2,St. Kilda,54,Docklands,VIC
+2017,r12g3,Gold Coast,95,Metricon,QLD
+2017,r12g4,Fremantle,64,Perth Stadium,WA
+2017,r12g5,Port Adelaide,61,Adelaide Oval,SA
+2017,r12g6,Greater Western Sydney,70,Sydney Showground,NSW
+2017,r12g7,Collingwood,100,MCG,VIC
+2017,r13g1,Geelong,70,Kardinia Park,VIC
+2017,r13g2,St. Kilda,89,Docklands,VIC
+2017,r13g3,Sydney,80,SCG,NSW
+2017,r13g4,Brisbane,81,Gabba,QLD
+2017,r13g5,Carlton,83,Docklands,VIC
+2017,r13g6,Melbourne,113,MCG,VIC
+2017,r14g1,Hawthorn,96,MCG,VIC
+2017,r14g2,Essendon,85,Docklands,VIC
+2017,r14g3,Port Adelaide,93,Adelaide Oval,SA
+2017,r14g4,Greater Western Sydney,146,Sydney Showground,NSW
+2017,r14g5,North Melbourne,106,Docklands,VIC
+2017,r14g6,Melbourne,99,MCG,VIC
+2017,r14g7,Fremantle,72,Perth Stadium,WA
+2017,r14g8,Carlton,58,Docklands,VIC
+2017,r14g9,Gold Coast,72,Metricon,QLD
+2017,r15g1,Sydney,85,SCG,NSW
+2017,r15g2,West Coast,87,Perth Stadium,WA
+2017,r15g3,Adelaide,89,Adelaide Oval,SA
+2017,r15g4,North Melbourne,99,Docklands,VIC
+2017,r15g5,Geelong,68,Kardinia Park,VIC
+2017,r15g6,Richmond,76,MCG,VIC
+2017,r15g7,Brisbane,90,Gabba,QLD
+2017,r15g8,Collingwood,94,MCG,VIC
+2017,r15g9,St. Kilda,89,Docklands,VIC
+2017,r16g1,Western Bulldogs,45,Docklands,VIC
+2017,r16g2,Brisbane,97,Gabba,QLD
+2017,r16g3,Essendon,117,Docklands,VIC
+2017,r16g4,Gold Coast,51,Metricon,QLD
+2017,r16g5,Geelong,163,Kardinia Park,VIC
+2017,r16g6,Richmond,71,MCG,VIC
+2017,r16g7,Fremantle,86,Perth Stadium,WA
+2017,r16g8,Melbourne,90,MCG,VIC
+2017,r16g9,Port Adelaide,120,Adelaide Oval,SA
+2017,r17g1,Essendon,118,Docklands,VIC
+2017,r17g2,Hawthorn,85,MCG,VIC
+2017,r17g3,North Melbourne,57,Docklands,VIC
+2017,r17g4,Collingwood,103,MCG,VIC
+2017,r17g5,Sydney,96,SCG,NSW
+2017,r17g6,Adelaide,116,Adelaide Oval,SA
+2017,r17g7,Brisbane,81,Gabba,QLD
+2017,r17g8,Western Bulldogs,82,Docklands,VIC
+2017,r17g9,West Coast,74,Perth Stadium,WA
+2017,r18g1,Geelong,70,Kardinia Park,VIC
+2017,r18g2,North Melbourne,105,Docklands,VIC
+2017,r18g3,Port Adelaide,65,Adelaide Oval,SA
+2017,r18g4,Gold Coast,56,Metricon,QLD
+2017,r18g5,St. Kilda,59,Docklands,VIC
+2017,r18g6,Hawthorn,100,MCG,VIC
+2017,r18g7,Greater Western Sydney,45,Sydney Showground,NSW
+2017,r18g8,West Coast,85,Perth Stadium,WA
+2017,r18g9,Carlton,82,Docklands,VIC
+2017,r19g1,Sydney,66,SCG,NSW
+2017,r19g2,Melbourne,72,MCG,VIC
+2017,r19g3,Fremantle,86,Perth Stadium,WA
+2017,r19g4,St. Kilda,61,Docklands,VIC
+2017,r19g5,Richmond,98,MCG,VIC
+2017,r19g6,Geelong,123,Kardinia Park,VIC
+2017,r19g7,Essendon,97,Docklands,VIC
+2017,r19g8,Adelaide,103,Adelaide Oval,SA
+2017,r19g9,Brisbane,45,Gabba,QLD
+2017,r20g1,Sydney,107,SCG,NSW
+2017,r20g2,Melbourne,62,MCG,VIC
+2017,r20g3,Carlton,76,Docklands,VIC
+2017,r20g4,Western Bulldogs,103,Docklands,VIC
+2017,r20g5,Collingwood,111,MCG,VIC
+2017,r20g6,Gold Coast,67,Metricon,QLD
+2017,r20g7,West Coast,95,Perth Stadium,WA
+2017,r20g8,Hawthorn,64,MCG,VIC
+2017,r20g9,Port Adelaide,46,Adelaide Oval,SA
+2017,r21g1,Greater Western Sydney,105,Sydney Showground,NSW
+2017,r21g2,Fremantle,39,Perth Stadium,WA
+2017,r21g3,Richmond,66,MCG,VIC
+2017,r21g4,Gold Coast,84,Metricon,QLD
+2017,r21g5,Adelaide,123,Adelaide Oval,SA
+2017,r21g6,Carlton,83,Docklands,VIC
+2017,r21g7,St. Kilda,72,Docklands,VIC
+2017,r21g8,North Melbourne,89,Docklands,VIC
+2017,r21g9,Collingwood,71,MCG,VIC
+2017,r22g1,Sydney,83,SCG,NSW
+2017,r22g2,Port Adelaide,96,Adelaide Oval,SA
+2017,r22g3,Geelong,70,Kardinia Park,VIC
+2017,r22g4,West Coast,60,Perth Stadium,WA
+2017,r22g5,Essendon,90,Docklands,VIC
+2017,r22g6,Hawthorn,70,MCG,VIC
+2017,r22g7,Brisbane,91,Gabba,QLD
+2017,r22g8,North Melbourne,78,Docklands,VIC
+2017,r22g9,Richmond,155,MCG,VIC
+2017,r23g1,Western Bulldogs,90,Docklands,VIC
+2017,r23g2,Melbourne,83,MCG,VIC
+2017,r23g3,North Melbourne,130,Docklands,VIC
+2017,r23g4,Carlton,57,Docklands,VIC
+2017,r23g5,Greater Western Sydney,59,Sydney Showground,NSW
+2017,r23g6,Gold Coast,20,Metricon,QLD
+2017,r23g7,Fremantle,92,Perth Stadium,WA
+2017,r23g8,St. Kilda,81,Docklands,VIC
+2017,r23g9,Adelaide,71,Adelaide Oval,SA
+2016,r1g1,Carlton,83,Docklands,VIC
+2016,r1g2,Greater Western Sydney,78,Sydney Showground,NSW
+2016,r1g3,Essendon,60,Docklands,VIC
+2016,r1g4,Collingwood,53,MCG,VIC
+2016,r1g5,Adelaide,97,Adelaide Oval,SA
+2016,r1g6,Fremantle,38,Perth Stadium,WA
+2016,r1g7,St. Kilda,100,Docklands,VIC
+2016,r1g8,Brisbane,102,Gabba,QLD
+2016,r1g9,Hawthorn,86,MCG,VIC
+2016,r2g1,Richmond,86,MCG,VIC
+2016,r2g2,Port Adelaide,86,Adelaide Oval,SA
+2016,r2g3,Melbourne,67,MCG,VIC
+2016,r2g4,North Melbourne,117,Docklands,VIC
+2016,r2g5,Western Bulldogs,93,Docklands,VIC
+2016,r2g6,Gold Coast,126,Metricon,QLD
+2016,r2g7,Geelong,76,Kardinia Park,VIC
+2016,r2g8,West Coast,53,Perth Stadium,WA
+2016,r2g9,Sydney,131,SCG,NSW
+2016,r3g1,Essendon,51,Docklands,VIC
+2016,r3g2,Collingwood,90,MCG,VIC
+2016,r3g3,Adelaide,128,Adelaide Oval,SA
+2016,r3g4,Greater Western Sydney,68,Sydney Showground,NSW
+2016,r3g5,Carlton,41,Docklands,VIC
+2016,r3g6,Fremantle,59,Perth Stadium,WA
+2016,r3g7,Melbourne,131,MCG,VIC
+2016,r3g8,Hawthorn,93,MCG,VIC
+2016,r3g9,Brisbane,56,Gabba,QLD
+2016,r4g1,Richmond,57,MCG,VIC
+2016,r4g2,Geelong,72,Kardinia Park,VIC
+2016,r4g3,St. Kilda,84,Docklands,VIC
+2016,r4g4,Gold Coast,94,Metricon,QLD
+2016,r4g5,Western Bulldogs,85,Docklands,VIC
+2016,r4g6,Sydney,103,SCG,NSW
+2016,r4g7,Port Adelaide,65,Adelaide Oval,SA
+2016,r4g8,Melbourne,102,MCG,VIC
+2016,r4g9,Fremantle,101,Perth Stadium,WA
+2016,r5g1,Adelaide,109,Adelaide Oval,SA
+2016,r5g2,West Coast,49,Perth Stadium,WA
+2016,r5g3,North Melbourne,119,Docklands,VIC
+2016,r5g4,Brisbane,67,Gabba,QLD
+2016,r5g5,Geelong,107,Kardinia Park,VIC
+2016,r5g6,Greater Western Sydney,126,Sydney Showground,NSW
+2016,r5g7,Carlton,72,Docklands,VIC
+2016,r5g8,Richmond,96,MCG,VIC
+2016,r5g9,Essendon,73,Docklands,VIC
+2016,r6g1,Western Bulldogs,45,Docklands,VIC
+2016,r6g2,St. Kilda,135,Docklands,VIC
+2016,r6g3,Fremantle,64,Perth Stadium,WA
+2016,r6g4,Hawthorn,83,MCG,VIC
+2016,r6g5,Gold Coast,48,Metricon,QLD
+2016,r6g6,Port Adelaide,94,Adelaide Oval,SA
+2016,r6g7,Sydney,97,SCG,NSW
+2016,r6g8,Essendon,57,Docklands,VIC
+2016,r6g9,Collingwood,62,MCG,VIC
+2016,r7g1,Hawthorn,136,MCG,VIC
+2016,r7g2,Carlton,99,Docklands,VIC
+2016,r7g3,West Coast,79,Perth Stadium,WA
+2016,r7g4,Essendon,54,Docklands,VIC
+2016,r7g5,Melbourne,160,MCG,VIC
+2016,r7g6,Adelaide,108,Adelaide Oval,SA
+2016,r7g7,Greater Western Sydney,95,Sydney Showground,NSW
+2016,r7g8,North Melbourne,82,Docklands,VIC
+2016,r7g9,Brisbane,59,Gabba,QLD
+2016,r8g1,Geelong,98,Kardinia Park,VIC
+2016,r8g2,North Melbourne,74,Docklands,VIC
+2016,r8g3,Fremantle,75,Perth Stadium,WA
+2016,r8g4,Gold Coast,58,Metricon,QLD
+2016,r8g5,Sydney,100,SCG,NSW
+2016,r8g6,Collingwood,143,MCG,VIC
+2016,r8g7,Port Adelaide,91,Adelaide Oval,SA
+2016,r8g8,Western Bulldogs,114,Docklands,VIC
+2016,r8g9,St. Kilda,29,Docklands,VIC
+2016,r9g1,Sydney,69,SCG,NSW
+2016,r9g2,Geelong,80,Kardinia Park,VIC
+2016,r9g3,Adelaide,149,Adelaide Oval,SA
+2016,r9g4,West Coast,94,Perth Stadium,WA
+2016,r9g5,Richmond,83,MCG,VIC
+2016,r9g6,Carlton,46,Docklands,VIC
+2016,r9g7,Brisbane,68,Gabba,QLD
+2016,r9g8,Western Bulldogs,73,Docklands,VIC
+2016,r9g9,Essendon,63,Docklands,VIC
+2016,r10g1,North Melbourne,65,Docklands,VIC
+2016,r10g2,Hawthorn,135,MCG,VIC
+2016,r10g3,Port Adelaide,121,Adelaide Oval,SA
+2016,r10g4,Fremantle,67,Perth Stadium,WA
+2016,r10g5,Richmond,105,MCG,VIC
+2016,r10g6,Greater Western Sydney,85,Sydney Showground,NSW
+2016,r10g7,Geelong,85,Kardinia Park,VIC
+2016,r10g8,Western Bulldogs,74,Docklands,VIC
+2016,r10g9,Gold Coast,55,Metricon,QLD
+2016,r11g1,Richmond,54,MCG,VIC
+2016,r11g2,Melbourne,64,MCG,VIC
+2016,r11g3,Brisbane,64,Gabba,QLD
+2016,r11g4,Greater Western Sydney,88,Sydney Showground,NSW
+2016,r11g5,Essendon,47,Docklands,VIC
+2016,r11g6,Sydney,79,SCG,NSW
+2016,r11g7,Port Adelaide,125,Adelaide Oval,SA
+2016,r11g8,West Coast,75,Perth Stadium,WA
+2016,r11g9,St. Kilda,45,Docklands,VIC
+2016,r12g1,Hawthorn,151,MCG,VIC
+2016,r12g2,Western Bulldogs,100,Docklands,VIC
+2016,r12g3,Fremantle,147,Perth Stadium,WA
+2016,r12g4,North Melbourne,74,Docklands,VIC
+2016,r12g5,Adelaide,105,Adelaide Oval,SA
+2016,r12g6,Carlton,78,Docklands,VIC
+2016,r12g7,Gold Coast,97,Metricon,QLD
+2016,r12g8,Sydney,63,SCG,NSW
+2016,r12g9,Collingwood,58,MCG,VIC
+2016,r13g1,Hawthorn,93,MCG,VIC
+2016,r13g2,West Coast,131,Perth Stadium,WA
+2016,r13g3,Port Adelaide,69,Adelaide Oval,SA
+2016,r13g4,Geelong,100,Kardinia Park,VIC
+2016,r13g5,Melbourne,31,MCG,VIC
+2016,r13g6,Greater Western Sydney,117,Sydney Showground,NSW
+2016,r14g1,North Melbourne,67,Docklands,VIC
+2016,r14g2,Fremantle,37,Perth Stadium,WA
+2016,r14g3,Brisbane,75,Gabba,QLD
+2016,r14g4,Carlton,65,Docklands,VIC
+2016,r14g5,Geelong,90,Kardinia Park,VIC
+2016,r14g6,Gold Coast,60,Metricon,QLD
+2016,r15g1,Essendon,52,Docklands,VIC
+2016,r15g2,Richmond,56,MCG,VIC
+2016,r15g3,St. Kilda,68,Docklands,VIC
+2016,r15g4,Western Bulldogs,83,Docklands,VIC
+2016,r15g5,Collingwood,57,MCG,VIC
+2016,r15g6,Adelaide,120,Adelaide Oval,SA
+2016,r16g1,Hawthorn,101,MCG,VIC
+2016,r16g2,Sydney,98,SCG,NSW
+2016,r16g3,Collingwood,125,MCG,VIC
+2016,r16g4,Brisbane,113,Gabba,QLD
+2016,r16g5,Richmond,75,MCG,VIC
+2016,r16g6,Fremantle,55,Perth Stadium,WA
+2016,r16g7,Adelaide,107,Adelaide Oval,SA
+2016,r16g8,North Melbourne,72,Docklands,VIC
+2016,r16g9,St. Kilda,109,Docklands,VIC
+2016,r17g1,Hawthorn,75,MCG,VIC
+2016,r17g2,Geelong,78,Kardinia Park,VIC
+2016,r17g3,Essendon,83,Docklands,VIC
+2016,r17g4,Port Adelaide,105,Adelaide Oval,SA
+2016,r17g5,Gold Coast,59,Metricon,QLD
+2016,r17g6,Collingwood,69,MCG,VIC
+2016,r17g7,West Coast,82,Perth Stadium,WA
+2016,r17g8,Melbourne,74,MCG,VIC
+2016,r17g9,Greater Western Sydney,146,Sydney Showground,NSW
+2016,r18g1,North Melbourne,124,Docklands,VIC
+2016,r18g2,Carlton,68,Docklands,VIC
+2016,r18g3,Fremantle,81,Perth Stadium,WA
+2016,r18g4,Melbourne,60,MCG,VIC
+2016,r18g5,Adelaide,55,Adelaide Oval,SA
+2016,r18g6,St. Kilda,75,Docklands,VIC
+2016,r18g7,Brisbane,128,Gabba,QLD
+2016,r18g8,Richmond,44,MCG,VIC
+2016,r18g9,Greater Western Sydney,79,Sydney Showground,NSW
+2016,r19g1,Western Bulldogs,78,Docklands,VIC
+2016,r19g2,Richmond,23,MCG,VIC
+2016,r19g3,Carlton,55,Docklands,VIC
+2016,r19g4,West Coast,72,Perth Stadium,WA
+2016,r19g5,St. Kilda,62,Docklands,VIC
+2016,r19g6,Port Adelaide,173,Adelaide Oval,SA
+2016,r19g7,Gold Coast,64,Metricon,QLD
+2016,r19g8,Sydney,137,SCG,NSW
+2016,r19g9,Essendon,61,Docklands,VIC
+2016,r20g1,Collingwood,77,MCG,VIC
+2016,r20g2,Port Adelaide,33,Adelaide Oval,SA
+2016,r20g3,Hawthorn,81,MCG,VIC
+2016,r20g4,Greater Western Sydney,92,Sydney Showground,NSW
+2016,r20g5,North Melbourne,47,Docklands,VIC
+2016,r20g6,Brisbane,39,Gabba,QLD
+2016,r20g7,St. Kilda,122,Docklands,VIC
+2016,r20g8,Essendon,34,Docklands,VIC
+2016,r20g9,West Coast,110,Perth Stadium,WA
+2016,r21g1,Collingwood,92,MCG,VIC
+2016,r21g2,Carlton,95,Docklands,VIC
+2016,r21g3,North Melbourne,57,Docklands,VIC
+2016,r21g4,West Coast,97,Perth Stadium,WA
+2016,r21g5,Sydney,146,SCG,NSW
+2016,r21g6,Melbourne,94,MCG,VIC
+2016,r21g7,Gold Coast,69,Metricon,QLD
+2016,r21g8,Geelong,82,Kardinia Park,VIC
+2016,r21g9,Adelaide,142,Adelaide Oval,SA
+2016,r22g1,Hawthorn,67,MCG,VIC
+2016,r22g2,Sydney,85,SCG,NSW
+2016,r22g3,St. Kilda,55,Docklands,VIC
+2016,r22g4,Fremantle,37,Perth Stadium,WA
+2016,r22g5,Gold Coast,47,Metricon,QLD
+2016,r22g6,Adelaide,109,Adelaide Oval,SA
+2016,r22g7,Melbourne,58,MCG,VIC
+2016,r22g8,Geelong,129,Kardinia Park,VIC
+2016,r22g9,Western Bulldogs,93,Docklands,VIC
+2016,r23g1,West Coast,100,Perth Stadium,WA
+2016,r23g2,Melbourne,44,MCG,VIC
+2016,r23g3,Carlton,79,Docklands,VIC
+2016,r23g4,Richmond,51,MCG,VIC
+2016,r23g5,Greater Western Sydney,100,Sydney Showground,NSW
+2016,r23g6,Port Adelaide,89,Adelaide Oval,SA
+2016,r23g7,Brisbane,103,Gabba,QLD
+2016,r23g8,Collingwood,111,MCG,VIC
+2016,r23g9,Western Bulldogs,49,Docklands,VIC
+2015,r1g1,Richmond,105,MCG,VIC
+2015,r1g2,Gold Coast,89,Metricon,QLD
+2015,r1g3,Essendon,60,Docklands,VIC
+2015,r1g4,Collingwood,86,MCG,VIC
+2015,r1g5,West Coast,87,Perth Stadium,WA
+2015,r1g6,Greater Western Sydney,87,Sydney Showground,NSW
+2015,r1g7,North Melbourne,63,Docklands,VIC
+2015,r1g8,Port Adelaide,68,Adelaide Oval,SA
+2015,r1g9,Geelong,61,Kardinia Park,VIC
+2015,r2g1,Carlton,62,Docklands,VIC
+2015,r2g2,Western Bulldogs,85,Docklands,VIC
+2015,r2g3,Melbourne,56,MCG,VIC
+2015,r2g4,Adelaide,90,Adelaide Oval,SA
+2015,r2g5,St. Kilda,104,Docklands,VIC
+2015,r2g6,Sydney,92,SCG,NSW
+2015,r2g7,Fremantle,104,Perth Stadium,WA
+2015,r2g8,Hawthorn,76,MCG,VIC
+2015,r2g9,Brisbane,51,Gabba,QLD
+2015,r3g1,St. Kilda,66,Docklands,VIC
+2015,r3g2,Essendon,105,Docklands,VIC
+2015,r3g3,Melbourne,55,MCG,VIC
+2015,r3g4,Greater Western Sydney,90,Sydney Showground,NSW
+2015,r3g5,Port Adelaide,113,Adelaide Oval,SA
+2015,r3g6,Richmond,137,MCG,VIC
+2015,r3g7,Western Bulldogs,57,Docklands,VIC
+2015,r3g8,Gold Coast,96,Metricon,QLD
+2015,r3g9,Fremantle,111,Perth Stadium,WA
+2015,r4g1,Melbourne,83,MCG,VIC
+2015,r4g2,Carlton,121,Docklands,VIC
+2015,r4g3,Collingwood,69,MCG,VIC
+2015,r4g4,Gold Coast,53,Metricon,QLD
+2015,r4g5,Hawthorn,91,MCG,VIC
+2015,r4g6,Sydney,60,SCG,NSW
+2015,r4g7,West Coast,118,Perth Stadium,WA
+2015,r4g8,North Melbourne,83,Docklands,VIC
+2015,r4g9,Adelaide,68,Adelaide Oval,SA
+2015,r5g1,Collingwood,120,MCG,VIC
+2015,r5g2,Geelong,85,Kardinia Park,VIC
+2015,r5g3,Western Bulldogs,77,Docklands,VIC
+2015,r5g4,Brisbane,54,Gabba,QLD
+2015,r5g5,Hawthorn,130,MCG,VIC
+2015,r5g6,Greater Western Sydney,33,Sydney Showground,NSW
+2015,r5g7,Fremantle,118,Perth Stadium,WA
+2015,r5g8,Essendon,82,Docklands,VIC
+2015,r5g9,Port Adelaide,115,Adelaide Oval,SA
+2015,r6g1,Geelong,100,Kardinia Park,VIC
+2015,r6g2,Richmond,74,MCG,VIC
+2015,r6g3,St. Kilda,94,Docklands,VIC
+2015,r6g4,Hawthorn,98,MCG,VIC
+2015,r6g5,Adelaide,119,Adelaide Oval,SA
+2015,r6g6,Sydney,88,SCG,NSW
+2015,r6g7,Essendon,52,Docklands,VIC
+2015,r6g8,Brisbane,84,Gabba,QLD
+2015,r6g9,West Coast,78,Perth Stadium,WA
+2015,r7g1,North Melbourne,93,Docklands,VIC
+2015,r7g2,St. Kilda,73,Docklands,VIC
+2015,r7g3,Melbourne,50,MCG,VIC
+2015,r7g4,Greater Western Sydney,135,Sydney Showground,NSW
+2015,r7g5,Geelong,77,Kardinia Park,VIC
+2015,r7g6,Gold Coast,43,Metricon,QLD
+2015,r7g7,Fremantle,101,Perth Stadium,WA
+2015,r7g8,Collingwood,100,MCG,VIC
+2015,r7g9,Port Adelaide,65,Adelaide Oval,SA
+2015,r8g1,Carlton,63,Docklands,VIC
+2015,r8g2,West Coast,131,Perth Stadium,WA
+2015,r8g3,Adelaide,84,Adelaide Oval,SA
+2015,r8g4,Collingwood,132,MCG,VIC
+2015,r8g5,Sydney,73,SCG,NSW
+2015,r8g6,North Melbourne,42,Docklands,VIC
+2015,r8g7,Brisbane,78,Gabba,QLD
+2015,r8g8,Western Bulldogs,64,Docklands,VIC
+2015,r8g9,Richmond,76,MCG,VIC
+2015,r9g1,Carlton,62,Docklands,VIC
+2015,r9g2,Gold Coast,40,Metricon,QLD
+2015,r9g3,Port Adelaide,115,Adelaide Oval,SA
+2015,r9g4,Greater Western Sydney,68,Sydney Showground,NSW
+2015,r9g5,Essendon,59,Docklands,VIC
+2015,r9g6,Fremantle,68,Perth Stadium,WA
+2015,r9g7,St. Kilda,108,Docklands,VIC
+2015,r9g8,North Melbourne,95,Docklands,VIC
+2015,r9g9,Geelong,64,Kardinia Park,VIC
+2015,r10g1,Richmond,97,MCG,VIC
+2015,r10g2,Adelaide,99,Adelaide Oval,SA
+2015,r10g3,Sydney,93,SCG,NSW
+2015,r10g4,Geelong,122,Kardinia Park,VIC
+2015,r10g5,Western Bulldogs,65,Docklands,VIC
+2015,r10g6,Brisbane,67,Gabba,QLD
+2015,r10g7,West Coast,75,Perth Stadium,WA
+2015,r10g8,Hawthorn,132,MCG,VIC
+2015,r10g9,Collingwood,110,MCG,VIC
+2015,r11g1,Geelong,92,Kardinia Park,VIC
+2015,r11g2,Fremantle,53,Perth Stadium,WA
+2015,r11g3,Essendon,46,Docklands,VIC
+2015,r11g4,Sydney,91,SCG,NSW
+2015,r11g5,Greater Western Sydney,77,Sydney Showground,NSW
+2015,r11g6,Melbourne,83,MCG,VIC
+2015,r12g1,Hawthorn,114,MCG,VIC
+2015,r12g2,West Coast,90,Perth Stadium,WA
+2015,r12g3,Port Adelaide,106,Adelaide Oval,SA
+2015,r12g4,North Melbourne,117,Docklands,VIC
+2015,r12g5,Brisbane,74,Gabba,QLD
+2015,r12g6,Melbourne,113,MCG,VIC
+2015,r13g1,Collingwood,73,MCG,VIC
+2015,r13g2,Richmond,95,MCG,VIC
+2015,r13g3,Essendon,76,Docklands,VIC
+2015,r13g4,Adelaide,82,Adelaide Oval,SA
+2015,r13g5,Western Bulldogs,62,Docklands,VIC
+2015,r13g6,Gold Coast,69,Metricon,QLD
+2015,r14g1,Port Adelaide,84,Adelaide Oval,SA
+2015,r14g2,Hawthorn,101,MCG,VIC
+2015,r14g3,Greater Western Sydney,69,Sydney Showground,NSW
+2015,r14g4,North Melbourne,70,Docklands,VIC
+2015,r14g5,Carlton,53,Docklands,VIC
+2015,r14g6,West Coast,114,Perth Stadium,WA
+2015,r14g7,St. Kilda,162,Docklands,VIC
+2015,r14g8,Brisbane,48,Gabba,QLD
+2015,r15g1,Collingwood,63,MCG,VIC
+2015,r15g2,Carlton,41,Docklands,VIC
+2015,r15g3,Melbourne,60,MCG,VIC
+2015,r15g4,Gold Coast,73,Metricon,QLD
+2015,r15g5,Geelong,79,Kardinia Park,VIC
+2015,r15g6,Adelaide,91,Adelaide Oval,SA
+2015,r15g7,St. Kilda,49,Docklands,VIC
+2015,r15g8,Fremantle,43,Perth Stadium,WA
+2015,r15g9,Sydney,70,SCG,NSW
+2015,r16g1,Essendon,68,Docklands,VIC
+2015,r16g2,Western Bulldogs,64,Docklands,VIC
+2015,r16g3,Greater Western Sydney,94,Sydney Showground,NSW
+2015,r16g4,West Coast,87,Perth Stadium,WA
+2015,r16g5,Hawthorn,146,MCG,VIC
+2015,r16g6,Carlton,53,Docklands,VIC
+2015,r16g7,Brisbane,36,Gabba,QLD
+2015,r16g8,Adelaide,116,Adelaide Oval,SA
+2015,r16g9,Richmond,89,MCG,VIC
+2015,r17g1,Hawthorn,173,MCG,VIC
+2015,r17g2,Geelong,69,Kardinia Park,VIC
+2015,r17g3,Gold Coast,80,Metricon,QLD
+2015,r17g4,Fremantle,82,Perth Stadium,WA
+2015,r17g5,Port Adelaide,129,Adelaide Oval,SA
+2015,r17g6,North Melbourne,110,Docklands,VIC
+2015,r17g7,Collingwood,86,MCG,VIC
+2015,r17g8,St. Kilda,83,Docklands,VIC
+2015,r17g9,Sydney,51,SCG,NSW
+2015,r18g1,Richmond,71,MCG,VIC
+2015,r18g2,Brisbane,57,Gabba,QLD
+2015,r18g3,Melbourne,91,MCG,VIC
+2015,r18g4,Adelaide,65,Adelaide Oval,SA
+2015,r18g5,North Melbourne,118,Docklands,VIC
+2015,r18g6,West Coast,83,Perth Stadium,WA
+2015,r18g7,St. Kilda,49,Docklands,VIC
+2015,r18g8,Western Bulldogs,127,Docklands,VIC
+2015,r18g9,Greater Western Sydney,63,Sydney Showground,NSW
+2015,r19g1,Richmond,52,MCG,VIC
+2015,r19g2,Carlton,87,Docklands,VIC
+2015,r19g3,Port Adelaide,64,Adelaide Oval,SA
+2015,r19g4,Gold Coast,114,Metricon,QLD
+2015,r19g5,Sydney,63,SCG,NSW
+2015,r19g6,Hawthorn,88,MCG,VIC
+2015,r19g7,North Melbourne,127,Docklands,VIC
+2015,r19g8,Essendon,61,Docklands,VIC
+2015,r19g9,Fremantle,96,Perth Stadium,WA
+2015,r20g1,Collingwood,76,MCG,VIC
+2015,r20g2,Adelaide,171,Adelaide Oval,SA
+2015,r20g3,St. Kilda,83,Docklands,VIC
+2015,r20g4,Greater Western Sydney,90,Sydney Showground,NSW
+2015,r20g5,Hawthorn,121,MCG,VIC
+2015,r20g6,Carlton,67,Docklands,VIC
+2015,r20g7,Gold Coast,55,Metricon,QLD
+2015,r20g8,Melbourne,55,MCG,VIC
+2015,r20g9,West Coast,104,Perth Stadium,WA
+2015,r21g1,Port Adelaide,108,Adelaide Oval,SA
+2015,r21g2,Richmond,147,MCG,VIC
+2015,r21g3,Sydney,133,SCG,NSW
+2015,r21g4,Essendon,95,Docklands,VIC
+2015,r21g5,Geelong,97,Kardinia Park,VIC
+2015,r21g6,Brisbane,44,Gabba,QLD
+2015,r21g7,Fremantle,83,Perth Stadium,WA
+2015,r21g8,Melbourne,55,MCG,VIC
+2015,r21g9,Western Bulldogs,85,Docklands,VIC
+2015,r22g1,Collingwood,110,MCG,VIC
+2015,r22g2,Carlton,51,Docklands,VIC
+2015,r22g3,Brisbane,62,Gabba,QLD
+2015,r22g4,Western Bulldogs,96,Docklands,VIC
+2015,r22g5,Richmond,74,MCG,VIC
+2015,r22g6,Port Adelaide,88,Adelaide Oval,SA
+2015,r22g7,West Coast,69,Perth Stadium,WA
+2015,r22g8,Sydney,135,SCG,NSW
+2015,r22g9,Melbourne,54,MCG,VIC
+2015,r23g1,North Melbourne,67,Docklands,VIC
+2015,r23g2,Adelaide,80,Adelaide Oval,SA
+2015,r23g3,Western Bulldogs,122,Docklands,VIC
+2015,r23g4,Fremantle,53,Perth Stadium,WA
+2015,r23g5,Carlton,56,Docklands,VIC
+2015,r23g6,Gold Coast,64,Metricon,QLD
+2015,r23g7,St. Kilda,30,Docklands,VIC
+2015,r23g8,Greater Western Sydney,77,Sydney Showground,NSW
+2015,r23g9,Essendon,95,Docklands,VIC
+2014,r1g1,Fremantle,116,Perth Stadium,WA
+2014,r1g2,Sydney,67,SCG,NSW
+2014,r1g3,Richmond,69,MCG,VIC
+2014,r1g4,Port Adelaide,120,Adelaide Oval,SA
+2014,r1g5,Adelaide,81,Adelaide Oval,SA
+2014,r1g6,Essendon,99,Docklands,VIC
+2014,r1g7,Brisbane,91,Gabba,QLD
+2014,r1g8,Melbourne,51,MCG,VIC
+2014,r1g9,Western Bulldogs,69,Docklands,VIC
+2014,r2g1,Carlton,86,Docklands,VIC
+2014,r2g2,Hawthorn,90,MCG,VIC
+2014,r2g3,Greater Western Sydney,88,Sydney Showground,NSW
+2014,r2g4,Adelaide,73,Adelaide Oval,SA
+2014,r2g5,Gold Coast,39,Metricon,QLD
+2014,r2g6,Collingwood,89,MCG,VIC
+2014,r2g7,Geelong,93,Kardinia Park,VIC
+2014,r2g8,West Coast,123,Perth Stadium,WA
+2014,r2g9,North Melbourne,83,Docklands,VIC
+2014,r3g1,Fremantle,79,Perth Stadium,WA
+2014,r3g2,Richmond,98,MCG,VIC
+2014,r3g3,Sydney,134,SCG,NSW
+2014,r3g4,Brisbane,61,Gabba,QLD
+2014,r3g5,Geelong,87,Kardinia Park,VIC
+2014,r3g6,St. Kilda,58,Docklands,VIC
+2014,r3g7,Melbourne,47,MCG,VIC
+2014,r3g8,Port Adelaide,90,Adelaide Oval,SA
+2014,r3g9,Carlton,57,Docklands,VIC
+2014,r4g1,Collingwood,110,MCG,VIC
+2014,r4g2,Melbourne,81,MCG,VIC
+2014,r4g3,Brisbane,46,Gabba,QLD
+2014,r4g4,Western Bulldogs,110,Docklands,VIC
+2014,r4g5,Hawthorn,148,MCG,VIC
+2014,r4g6,West Coast,32,Perth Stadium,WA
+2014,r4g7,North Melbourne,91,Docklands,VIC
+2014,r4g8,Adelaide,136,Adelaide Oval,SA
+2014,r4g9,Essendon,60,Docklands,VIC
+2014,r5g1,Richmond,106,MCG,VIC
+2014,r5g2,North Melbourne,58,Docklands,VIC
+2014,r5g3,Fremantle,75,Perth Stadium,WA
+2014,r5g4,Port Adelaide,70,Adelaide Oval,SA
+2014,r5g5,St. Kilda,81,Docklands,VIC
+2014,r5g6,Greater Western Sydney,72,Sydney Showground,NSW
+2014,r5g7,Gold Coast,86,Metricon,QLD
+2014,r5g8,Carlton,119,Docklands,VIC
+2014,r5g9,Hawthorn,87,MCG,VIC
+2014,r6g1,Essendon,60,Docklands,VIC
+2014,r6g2,North Melbourne,74,Docklands,VIC
+2014,r6g3,Brisbane,82,Gabba,QLD
+2014,r6g4,Greater Western Sydney,94,Sydney Showground,NSW
+2014,r6g5,West Coast,89,Perth Stadium,WA
+2014,r6g6,Sydney,69,SCG,NSW
+2014,r6g7,Adelaide,92,Adelaide Oval,SA
+2014,r6g8,Hawthorn,118,MCG,VIC
+2014,r6g9,Geelong,67,Kardinia Park,VIC
+2014,r7g1,Collingwood,104,MCG,VIC
+2014,r7g2,St. Kilda,30,Docklands,VIC
+2014,r7g3,Port Adelaide,132,Adelaide Oval,SA
+2014,r7g4,Melbourne,70,MCG,VIC
+2014,r7g5,Western Bulldogs,65,Docklands,VIC
+2014,r7g6,Sydney,123,SCG,NSW
+2014,r7g7,Gold Coast,120,Metricon,QLD
+2014,r7g8,Fremantle,73,Perth Stadium,WA
+2014,r7g9,Richmond,76,MCG,VIC
+2014,r8g1,Hawthorn,88,MCG,VIC
+2014,r8g2,Fremantle,76,Perth Stadium,WA
+2014,r8g3,Essendon,65,Docklands,VIC
+2014,r8g4,Western Bulldogs,99,Docklands,VIC
+2014,r8g5,Greater Western Sydney,77,Sydney Showground,NSW
+2014,r8g6,Carlton,101,Docklands,VIC
+2014,r9g1,Collingwood,55,MCG,VIC
+2014,r9g2,Sydney,114,SCG,NSW
+2014,r9g3,Melbourne,91,MCG,VIC
+2014,r9g4,Brisbane,38,Gabba,QLD
+2014,r9g5,Geelong,64,Kardinia Park,VIC
+2014,r9g6,Gold Coast,125,Metricon,QLD
+2014,r10g1,North Melbourne,91,Docklands,VIC
+2014,r10g2,Richmond,154,MCG,VIC
+2014,r10g3,West Coast,101,Perth Stadium,WA
+2014,r10g4,Hawthorn,86,MCG,VIC
+2014,r10g5,Western Bulldogs,74,Docklands,VIC
+2014,r10g6,Adelaide,76,Adelaide Oval,SA
+2014,r11g1,Geelong,38,Kardinia Park,VIC
+2014,r11g2,Collingwood,140,MCG,VIC
+2014,r11g3,Port Adelaide,95,Adelaide Oval,SA
+2014,r11g4,Carlton,91,Docklands,VIC
+2014,r11g5,Richmond,54,MCG,VIC
+2014,r11g6,Gold Coast,77,Metricon,QLD
+2014,r11g7,Fremantle,89,Perth Stadium,WA
+2014,r11g8,Greater Western Sydney,87,Sydney Showground,NSW
+2014,r11g9,North Melbourne,82,Docklands,VIC
+2014,r12g1,Carlton,102,Docklands,VIC
+2014,r12g2,West Coast,79,Perth Stadium,WA
+2014,r12g3,St. Kilda,59,Docklands,VIC
+2014,r12g4,Essendon,81,Docklands,VIC
+2014,r12g5,Brisbane,95,Gabba,QLD
+2014,r12g6,Sydney,109,SCG,NSW
+2014,r12g7,Adelaide,50,Adelaide Oval,SA
+2014,r12g8,Richmond,88,MCG,VIC
+2014,r12g9,Collingwood,61,MCG,VIC
+2014,r13g1,Hawthorn,118,MCG,VIC
+2014,r13g2,Fremantle,105,Perth Stadium,WA
+2014,r13g3,Port Adelaide,94,Adelaide Oval,SA
+2014,r13g4,Gold Coast,100,Metricon,QLD
+2014,r13g5,North Melbourne,73,Docklands,VIC
+2014,r13g6,Greater Western Sydney,125,Sydney Showground,NSW
+2014,r13g7,St. Kilda,37,Docklands,VIC
+2014,r13g8,Western Bulldogs,106,Docklands,VIC
+2014,r13g9,Melbourne,78,MCG,VIC
+2014,r14g1,Sydney,62,SCG,NSW
+2014,r14g2,Western Bulldogs,56,Docklands,VIC
+2014,r14g3,Collingwood,86,MCG,VIC
+2014,r14g4,Geelong,78,Kardinia Park,VIC
+2014,r14g5,Brisbane,22,Gabba,QLD
+2014,r14g6,Adelaide,92,Adelaide Oval,SA
+2014,r14g7,Carlton,92,Docklands,VIC
+2014,r14g8,West Coast,103,Perth Stadium,WA
+2014,r14g9,North Melbourne,107,Docklands,VIC
+2014,r15g1,Essendon,80,Docklands,VIC
+2014,r15g2,Gold Coast,63,Metricon,QLD
+2014,r15g3,Richmond,117,MCG,VIC
+2014,r15g4,West Coast,81,Perth Stadium,WA
+2014,r15g5,North Melbourne,66,Docklands,VIC
+2014,r15g6,Greater Western Sydney,60,Sydney Showground,NSW
+2014,r15g7,Melbourne,85,MCG,VIC
+2014,r15g8,Port Adelaide,76,Adelaide Oval,SA
+2014,r15g9,Carlton,76,Docklands,VIC
+2014,r16g1,Hawthorn,88,MCG,VIC
+2014,r16g2,Brisbane,54,Gabba,QLD
+2014,r16g3,Adelaide,140,Adelaide Oval,SA
+2014,r16g4,Collingwood,75,MCG,VIC
+2014,r16g5,Essendon,62,Docklands,VIC
+2014,r16g6,Fremantle,97,Perth Stadium,WA
+2014,r16g7,St. Kilda,66,Docklands,VIC
+2014,r16g8,Sydney,79,SCG,NSW
+2014,r16g9,Western Bulldogs,56,Docklands,VIC
+2014,r17g1,Hawthorn,104,MCG,VIC
+2014,r17g2,Geelong,102,Kardinia Park,VIC
+2014,r17g3,St. Kilda,33,Docklands,VIC
+2014,r17g4,Gold Coast,66,Metricon,QLD
+2014,r17g5,Carlton,51,Docklands,VIC
+2014,r17g6,West Coast,76,Perth Stadium,WA
+2014,r17g7,Port Adelaide,106,Adelaide Oval,SA
+2014,r17g8,Collingwood,39,MCG,VIC
+2014,r17g9,Greater Western Sydney,60,Sydney Showground,NSW
+2014,r18g1,North Melbourne,86,Docklands,VIC
+2014,r18g2,Fremantle,60,Perth Stadium,WA
+2014,r18g3,Geelong,94,Kardinia Park,VIC
+2014,r18g4,Melbourne,69,MCG,VIC
+2014,r18g5,Essendon,101,Docklands,VIC
+2014,r18g6,Richmond,59,MCG,VIC
+2014,r18g7,Gold Coast,56,Metricon,QLD
+2014,r18g8,Sydney,94,SCG,NSW
+2014,r18g9,Adelaide,98,Adelaide Oval,SA
+2014,r19g1,Carlton,78,Docklands,VIC
+2014,r19g2,Essendon,57,Docklands,VIC
+2014,r19g3,West Coast,136,Perth Stadium,WA
+2014,r19g4,Greater Western Sydney,62,Sydney Showground,NSW
+2014,r19g5,Geelong,111,Kardinia Park,VIC
+2014,r19g6,St. Kilda,64,Docklands,VIC
+2014,r19g7,Brisbane,74,Gabba,QLD
+2014,r19g8,Western Bulldogs,45,Docklands,VIC
+2014,r19g9,Port Adelaide,70,Adelaide Oval,SA
+2014,r20g1,Essendon,77,Docklands,VIC
+2014,r20g2,North Melbourne,126,Docklands,VIC
+2014,r20g3,Gold Coast,58,Metricon,QLD
+2014,r20g4,Melbourne,65,MCG,VIC
+2014,r20g5,Fremantle,79,Perth Stadium,WA
+2014,r20g6,Sydney,84,SCG,NSW
+2014,r20g7,Adelaide,168,Adelaide Oval,SA
+2014,r20g8,Western Bulldogs,122,Docklands,VIC
+2014,r20g9,Collingwood,66,MCG,VIC
+2014,r21g1,Geelong,82,Kardinia Park,VIC
+2014,r21g2,St. Kilda,56,Docklands,VIC
+2014,r21g3,Port Adelaide,56,Adelaide Oval,SA
+2014,r21g4,West Coast,74,Perth Stadium,WA
+2014,r21g5,Richmond,79,MCG,VIC
+2014,r21g6,Brisbane,123,Gabba,QLD
+2014,r21g7,Western Bulldogs,61,Docklands,VIC
+2014,r21g8,Greater Western Sydney,98,Sydney Showground,NSW
+2014,r21g9,Hawthorn,91,MCG,VIC
+2014,r22g1,Carlton,37,Docklands,VIC
+2014,r22g2,Adelaide,94,Adelaide Oval,SA
+2014,r22g3,Gold Coast,89,Metricon,QLD
+2014,r22g4,Collingwood,75,MCG,VIC
+2014,r22g5,Geelong,71,Kardinia Park,VIC
+2014,r22g6,Melbourne,53,MCG,VIC
+2014,r22g7,Fremantle,106,Perth Stadium,WA
+2014,r22g8,Sydney,130,SCG,NSW
+2014,r22g9,St. Kilda,72,Docklands,VIC
+2014,r23g1,Hawthorn,121,MCG,VIC
+2014,r23g2,Essendon,90,Docklands,VIC
+2014,r23g3,Port Adelaide,97,Adelaide Oval,SA
+2014,r23g4,Richmond,68,MCG,VIC
+2014,r23g5,Brisbane,81,Gabba,QLD
+2014,r23g6,Melbourne,93,MCG,VIC
+2014,r23g7,West Coast,151,Perth Stadium,WA
+2014,r23g8,St. Kilda,62,Docklands,VIC
+2014,r23g9,Greater Western Sydney,115,Sydney Showground,NSW
+2013,r1g1,Essendon,117,Docklands,VIC
+2013,r1g2,West Coast,80,Perth Stadium,WA
+2013,r1g3,Richmond,106,MCG,VIC
+2013,r1g4,Brisbane,59,Gabba,QLD
+2013,r1g5,Sydney,106,SCG,NSW
+2013,r1g6,St. Kilda,77,Docklands,VIC
+2013,r1g7,Port Adelaide,133,Adelaide Oval,SA
+2013,r1g8,Collingwood,103,MCG,VIC
+2013,r1g9,Geelong,93,Kardinia Park,VIC
+2013,r2g1,Richmond,99,MCG,VIC
+2013,r2g2,Gold Coast,73,Metricon,QLD
+2013,r2g3,Fremantle,106,Perth Stadium,WA
+2013,r2g4,Adelaide,96,Adelaide Oval,SA
+2013,r2g5,Greater Western Sydney,78,Sydney Showground,NSW
+2013,r2g6,Melbourne,36,MCG,VIC
+2013,r2g7,North Melbourne,108,Docklands,VIC
+2013,r2g8,Carlton,100,Docklands,VIC
+2013,r2g9,Hawthorn,148,MCG,VIC
+2013,r3g1,Essendon,72,Docklands,VIC
+2013,r3g2,Sydney,131,SCG,NSW
+2013,r3g3,West Coast,177,Perth Stadium,WA
+2013,r3g4,St. Kilda,140,Docklands,VIC
+2013,r3g5,Carlton,103,Docklands,VIC
+2013,r3g6,Brisbane,94,Gabba,QLD
+2013,r3g7,Western Bulldogs,68,Docklands,VIC
+2013,r3g8,Hawthorn,145,MCG,VIC
+2013,r3g9,Adelaide,109,Adelaide Oval,SA
+2013,r4g1,Geelong,124,Kardinia Park,VIC
+2013,r4g2,Fremantle,76,Perth Stadium,WA
+2013,r4g3,Collingwood,113,MCG,VIC
+2013,r4g4,Essendon,128,Docklands,VIC
+2013,r4g5,Carlton,89,Docklands,VIC
+2013,r4g6,Port Adelaide,104,Adelaide Oval,SA
+2013,r4g7,Greater Western Sydney,103,Sydney Showground,NSW
+2013,r4g8,Western Bulldogs,28,Docklands,VIC
+2013,r4g9,Brisbane,62,Gabba,QLD
+2013,r5g1,Collingwood,75,MCG,VIC
+2013,r5g2,Sydney,79,SCG,NSW
+2013,r5g3,Richmond,80,MCG,VIC
+2013,r5g4,Gold Coast,148,Metricon,QLD
+2013,r5g5,Adelaide,83,Adelaide Oval,SA
+2013,r5g6,West Coast,79,Perth Stadium,WA
+2013,r5g7,Geelong,107,Kardinia Park,VIC
+2013,r5g8,Melbourne,94,MCG,VIC
+2013,r5g9,North Melbourne,96,Docklands,VIC
+2013,r6g1,St. Kilda,77,Docklands,VIC
+2013,r6g2,Greater Western Sydney,81,Sydney Showground,NSW
+2013,r6g3,Port Adelaide,83,Adelaide Oval,SA
+2013,r6g4,Hawthorn,89,MCG,VIC
+2013,r6g5,Fremantle,99,Perth Stadium,WA
+2013,r6g6,Geelong,131,Kardinia Park,VIC
+2013,r6g7,Brisbane,55,Gabba,QLD
+2013,r6g8,Melbourne,60,MCG,VIC
+2013,r6g9,Western Bulldogs,67,Docklands,VIC
+2013,r7g1,Essendon,85,Docklands,VIC
+2013,r7g2,Richmond,114,MCG,VIC
+2013,r7g3,West Coast,108,Perth Stadium,WA
+2013,r7g4,North Melbourne,151,Docklands,VIC
+2013,r7g5,Collingwood,73,MCG,VIC
+2013,r7g6,Sydney,82,SCG,NSW
+2013,r7g7,Adelaide,187,Adelaide Oval,SA
+2013,r7g8,Gold Coast,114,Metricon,QLD
+2013,r7g9,Carlton,68,Docklands,VIC
+2013,r8g1,North Melbourne,88,Docklands,VIC
+2013,r8g2,Brisbane,96,Gabba,QLD
+2013,r8g3,Greater Western Sydney,57,Sydney Showground,NSW
+2013,r8g4,Western Bulldogs,61,Docklands,VIC
+2013,r8g5,Fremantle,70,Perth Stadium,WA
+2013,r8g6,Geelong,96,Kardinia Park,VIC
+2013,r8g7,Port Adelaide,91,Adelaide Oval,SA
+2013,r8g8,Melbourne,72,MCG,VIC
+2013,r8g9,St. Kilda,47,Docklands,VIC
+2013,r9g1,Sydney,102,SCG,NSW
+2013,r9g2,Geelong,116,Kardinia Park,VIC
+2013,r9g3,West Coast,155,Perth Stadium,WA
+2013,r9g4,Western Bulldogs,110,Docklands,VIC
+2013,r9g5,Carlton,98,Docklands,VIC
+2013,r9g6,Essendon,91,Docklands,VIC
+2013,r9g7,Gold Coast,92,Metricon,QLD
+2013,r9g8,Adelaide,125,Adelaide Oval,SA
+2013,r9g9,Melbourne,40,MCG,VIC
+2013,r10g1,Collingwood,100,MCG,VIC
+2013,r10g2,Greater Western Sydney,54,Sydney Showground,NSW
+2013,r10g3,Fremantle,66,Perth Stadium,WA
+2013,r10g4,Essendon,71,Docklands,VIC
+2013,r10g5,Gold Coast,71,Metricon,QLD
+2013,r10g6,Port Adelaide,58,Adelaide Oval,SA
+2013,r10g7,Hawthorn,143,MCG,VIC
+2013,r10g8,St. Kilda,65,Docklands,VIC
+2013,r10g9,Richmond,103,MCG,VIC
+2013,r11g1,Carlton,72,Docklands,VIC
+2013,r11g2,Geelong,157,Kardinia Park,VIC
+2013,r11g3,Sydney,127,SCG,NSW
+2013,r11g4,North Melbourne,51,Docklands,VIC
+2013,r11g5,West Coast,84,Perth Stadium,WA
+2013,r11g6,Collingwood,122,MCG,VIC
+2013,r12g1,Hawthorn,102,MCG,VIC
+2013,r12g2,Adelaide,72,Adelaide Oval,SA
+2013,r12g3,Brisbane,46,Gabba,QLD
+2013,r12g4,Gold Coast,72,Metricon,QLD
+2013,r12g5,Port Adelaide,125,Adelaide Oval,SA
+2013,r12g6,Western Bulldogs,65,Docklands,VIC
+2013,r13g1,West Coast,103,Perth Stadium,WA
+2013,r13g2,Sydney,54,SCG,NSW
+2013,r13g3,Melbourne,69,MCG,VIC
+2013,r13g4,Richmond,121,MCG,VIC
+2013,r13g5,North Melbourne,29,Docklands,VIC
+2013,r13g6,Geelong,98,Kardinia Park,VIC
+2013,r14g1,Essendon,98,Docklands,VIC
+2013,r14g2,Carlton,43,Docklands,VIC
+2013,r14g3,Adelaide,111,Adelaide Oval,SA
+2013,r14g4,Collingwood,51,MCG,VIC
+2013,r14g5,Western Bulldogs,100,Docklands,VIC
+2013,r14g6,Fremantle,44,Perth Stadium,WA
+2013,r14g7,Brisbane,85,Gabba,QLD
+2013,r14g8,Greater Western Sydney,44,Sydney Showground,NSW
+2013,r14g9,St. Kilda,55,Docklands,VIC
+2013,r15g1,Collingwood,118,MCG,VIC
+2013,r15g2,Western Bulldogs,87,Docklands,VIC
+2013,r15g3,Richmond,66,MCG,VIC
+2013,r15g4,Gold Coast,83,Metricon,QLD
+2013,r15g5,West Coast,75,Perth Stadium,WA
+2013,r15g6,Hawthorn,72,MCG,VIC
+2013,r15g7,Sydney,116,SCG,NSW
+2013,r15g8,St. Kilda,70,Docklands,VIC
+2013,r15g9,Port Adelaide,88,Adelaide Oval,SA
+2013,r16g1,Adelaide,84,Adelaide Oval,SA
+2013,r16g2,Hawthorn,124,MCG,VIC
+2013,r16g3,Melbourne,30,MCG,VIC
+2013,r16g4,Gold Coast,44,Metricon,QLD
+2013,r16g5,North Melbourne,105,Docklands,VIC
+2013,r16g6,St. Kilda,74,Docklands,VIC
+2013,r16g7,Greater Western Sydney,42,Sydney Showground,NSW
+2013,r16g8,Essendon,121,Docklands,VIC
+2013,r16g9,Fremantle,121,Perth Stadium,WA
+2013,r17g1,Carlton,109,Docklands,VIC
+2013,r17g2,Western Bulldogs,76,Docklands,VIC
+2013,r17g3,Essendon,116,Docklands,VIC
+2013,r17g4,Collingwood,78,MCG,VIC
+2013,r17g5,Brisbane,94,Gabba,QLD
+2013,r17g6,Port Adelaide,97,Adelaide Oval,SA
+2013,r17g7,Fremantle,57,Perth Stadium,WA
+2013,r17g8,Geelong,92,Kardinia Park,VIC
+2013,r17g9,Sydney,113,SCG,NSW
+2013,r18g1,Hawthorn,143,MCG,VIC
+2013,r18g2,Carlton,120,Docklands,VIC
+2013,r18g3,North Melbourne,150,Docklands,VIC
+2013,r18g4,Greater Western Sydney,66,Sydney Showground,NSW
+2013,r18g5,Adelaide,53,Adelaide Oval,SA
+2013,r18g6,St. Kilda,36,Docklands,VIC
+2013,r18g7,Brisbane,62,Gabba,QLD
+2013,r18g8,West Coast,89,Perth Stadium,WA
+2013,r18g9,Richmond,63,MCG,VIC
+2013,r19g1,Geelong,86,Kardinia Park,VIC
+2013,r19g2,Melbourne,87,MCG,VIC
+2013,r19g3,Richmond,107,MCG,VIC
+2013,r19g4,Gold Coast,113,Metricon,QLD
+2013,r19g5,St. Kilda,77,Docklands,VIC
+2013,r19g6,Fremantle,116,Perth Stadium,WA
+2013,r19g7,Sydney,134,SCG,NSW
+2013,r19g8,Port Adelaide,107,Adelaide Oval,SA
+2013,r19g9,Essendon,54,Docklands,VIC
+2013,r20g1,Hawthorn,102,MCG,VIC
+2013,r20g2,Brisbane,74,Gabba,QLD
+2013,r20g3,Port Adelaide,104,Adelaide Oval,SA
+2013,r20g4,Western Bulldogs,117,Docklands,VIC
+2013,r20g5,Melbourne,77,MCG,VIC
+2013,r20g6,Collingwood,100,MCG,VIC
+2013,r20g7,West Coast,120,Perth Stadium,WA
+2013,r20g8,North Melbourne,70,Docklands,VIC
+2013,r20g9,Greater Western Sydney,44,Sydney Showground,NSW
+2013,r21g1,Collingwood,84,MCG,VIC
+2013,r21g2,Carlton,106,Docklands,VIC
+2013,r21g3,Gold Coast,96,Metricon,QLD
+2013,r21g4,North Melbourne,115,Docklands,VIC
+2013,r21g5,Geelong,107,Kardinia Park,VIC
+2013,r21g6,Greater Western Sydney,63,Sydney Showground,NSW
+2013,r21g7,Fremantle,133,Perth Stadium,WA
+2013,r21g8,St. Kilda,59,Docklands,VIC
+2013,r21g9,Adelaide,114,Adelaide Oval,SA
+2013,r22g1,West Coast,39,Perth Stadium,WA
+2013,r22g2,Melbourne,52,MCG,VIC
+2013,r22g3,Hawthorn,117,MCG,VIC
+2013,r22g4,Sydney,48,SCG,NSW
+2013,r22g5,Port Adelaide,60,Adelaide Oval,SA
+2013,r22g6,Essendon,82,Docklands,VIC
+2013,r22g7,Gold Coast,70,Metricon,QLD
+2013,r22g8,Richmond,163,MCG,VIC
+2013,r22g9,Western Bulldogs,93,Docklands,VIC
+2013,r23g1,Hawthorn,112,MCG,VIC
+2013,r23g2,Fremantle,41,Perth Stadium,WA
+2013,r23g3,Brisbane,111,Gabba,QLD
+2013,r23g4,Carlton,104,Docklands,VIC
+2013,r23g5,Adelaide,129,Adelaide Oval,SA
+2013,r23g6,Richmond,104,MCG,VIC
+2013,r23g7,Greater Western Sydney,63,Sydney Showground,NSW
+2013,r23g8,North Melbourne,125,Docklands,VIC
+2013,r23g9,Melbourne,87,MCG,VIC
+2012,r1g1,Sydney,100,SCG,NSW
+2012,r1g2,Carlton,125,Docklands,VIC
+2012,r1g3,Collingwood,115,MCG,VIC
+2012,r1g4,Brisbane,119,Gabba,QLD
+2012,r1g5,Adelaide,137,Adelaide Oval,SA
+2012,r1g6,Geelong,101,Kardinia Park,VIC
+2012,r1g7,Essendon,104,Docklands,VIC
+2012,r1g8,West Coast,136,Perth Stadium,WA
+2012,r1g9,St. Kilda,85,Docklands,VIC
+2012,r2g1,Carlton,154,Docklands,VIC
+2012,r2g2,Port Adelaide,86,Adelaide Oval,SA
+2012,r2g3,Fremantle,81,Perth Stadium,WA
+2012,r2g4,Melbourne,58,MCG,VIC
+2012,r2g5,Western Bulldogs,64,Docklands,VIC
+2012,r2g6,Richmond,64,MCG,VIC
+2012,r2g7,Greater Western Sydney,54,Sydney Showground,NSW
+2012,r2g8,Gold Coast,47,Metricon,QLD
+2012,r2g9,Hawthorn,90,MCG,VIC
+2012,r3g1,Collingwood,62,MCG,VIC
+2012,r3g2,Melbourne,74,MCG,VIC
+2012,r3g3,Sydney,105,SCG,NSW
+2012,r3g4,Brisbane,35,Gabba,QLD
+2012,r3g5,St. Kilda,103,Docklands,VIC
+2012,r3g6,Essendon,105,Docklands,VIC
+2012,r3g7,West Coast,150,Perth Stadium,WA
+2012,r3g8,Adelaide,84,Adelaide Oval,SA
+2012,r3g9,Geelong,114,Kardinia Park,VIC
+2012,r4g1,Fremantle,92,Perth Stadium,WA
+2012,r4g2,Essendon,109,Docklands,VIC
+2012,r4g3,Port Adelaide,73,Adelaide Oval,SA
+2012,r4g4,Greater Western Sydney,50,Sydney Showground,NSW
+2012,r4g5,Gold Coast,46,Metricon,QLD
+2012,r4g6,Hawthorn,46,MCG,VIC
+2012,r4g7,Richmond,65,MCG,VIC
+2012,r4g8,North Melbourne,77,Docklands,VIC
+2012,r4g9,Western Bulldogs,88,Docklands,VIC
+2012,r5g1,Essendon,79,Docklands,VIC
+2012,r5g2,Carlton,65,Docklands,VIC
+2012,r5g3,Western Bulldogs,104,Docklands,VIC
+2012,r5g4,Gold Coast,93,Metricon,QLD
+2012,r5g5,St. Kilda,84,Docklands,VIC
+2012,r5g6,Geelong,79,Kardinia Park,VIC
+2012,r5g7,Sydney,106,SCG,NSW
+2012,r5g8,West Coast,107,Perth Stadium,WA
+2012,r5g9,Port Adelaide,91,Adelaide Oval,SA
+2012,r6g1,Collingwood,98,MCG,VIC
+2012,r6g2,Brisbane,62,Gabba,QLD
+2012,r6g3,Melbourne,76,MCG,VIC
+2012,r6g4,Fremantle,94,Perth Stadium,WA
+2012,r6g5,Adelaide,99,Adelaide Oval,SA
+2012,r6g6,Hawthorn,123,MCG,VIC
+2012,r6g7,Greater Western Sydney,43,Sydney Showground,NSW
+2012,r6g8,Richmond,91,MCG,VIC
+2012,r6g9,North Melbourne,95,Docklands,VIC
+2012,r7g1,Hawthorn,115,MCG,VIC
+2012,r7g2,Geelong,72,Kardinia Park,VIC
+2012,r7g3,Gold Coast,67,Metricon,QLD
+2012,r7g4,Sydney,62,SCG,NSW
+2012,r7g5,Collingwood,116,MCG,VIC
+2012,r7g6,West Coast,52,Perth Stadium,WA
+2012,r7g7,Western Bulldogs,101,Docklands,VIC
+2012,r7g8,Port Adelaide,47,Adelaide Oval,SA
+2012,r7g9,Carlton,98,Docklands,VIC
+2012,r8g1,Geelong,84,Kardinia Park,VIC
+2012,r8g2,North Melbourne,93,Docklands,VIC
+2012,r8g3,Fremantle,63,Perth Stadium,WA
+2012,r8g4,Melbourne,37,MCG,VIC
+2012,r8g5,Gold Coast,34,Metricon,QLD
+2012,r8g6,Richmond,109,MCG,VIC
+2012,r8g7,Greater Western Sydney,40,Sydney Showground,NSW
+2012,r8g8,Adelaide,124,Adelaide Oval,SA
+2012,r8g9,St. Kilda,91,Docklands,VIC
+2012,r9g1,Geelong,95,Kardinia Park,VIC
+2012,r9g2,Hawthorn,75,MCG,VIC
+2012,r9g3,Port Adelaide,118,Adelaide Oval,SA
+2012,r9g4,Sydney,83,SCG,NSW
+2012,r9g5,Collingwood,75,MCG,VIC
+2012,r9g6,Essendon,119,Docklands,VIC
+2012,r9g7,Brisbane,96,Gabba,QLD
+2012,r9g8,Melbourne,49,MCG,VIC
+2012,r9g9,Fremantle,36,Perth Stadium,WA
+2012,r10g1,Richmond,121,MCG,VIC
+2012,r10g2,Greater Western Sydney,61,Sydney Showground,NSW
+2012,r10g3,North Melbourne,59,Docklands,VIC
+2012,r10g4,Adelaide,111,Adelaide Oval,SA
+2012,r10g5,Carlton,45,Docklands,VIC
+2012,r10g6,Melbourne,58,MCG,VIC
+2012,r10g7,West Coast,100,Perth Stadium,WA
+2012,r10g8,Western Bulldogs,40,Docklands,VIC
+2012,r10g9,Gold Coast,52,Metricon,QLD
+2012,r11g1,Geelong,97,Kardinia Park,VIC
+2012,r11g2,Fremantle,78,Perth Stadium,WA
+2012,r11g3,St. Kilda,144,Docklands,VIC
+2012,r11g4,Sydney,86,SCG,NSW
+2012,r11g5,Hawthorn,108,MCG,VIC
+2012,r11g6,Collingwood,129,MCG,VIC
+2012,r12g1,Carlton,69,Docklands,VIC
+2012,r12g2,St. Kilda,111,Docklands,VIC
+2012,r12g3,Richmond,86,MCG,VIC
+2012,r12g4,North Melbourne,87,Docklands,VIC
+2012,r12g5,Brisbane,70,Gabba,QLD
+2012,r12g6,Port Adelaide,57,Adelaide Oval,SA
+2012,r13g1,Geelong,74,Kardinia Park,VIC
+2012,r13g2,Brisbane,114,Gabba,QLD
+2012,r13g3,West Coast,82,Perth Stadium,WA
+2012,r13g4,Essendon,113,Docklands,VIC
+2012,r13g5,Greater Western Sydney,57,Sydney Showground,NSW
+2012,r13g6,Adelaide,89,Adelaide Oval,SA
+2012,r14g1,Hawthorn,120,MCG,VIC
+2012,r14g2,Fremantle,78,Perth Stadium,WA
+2012,r14g3,Richmond,87,MCG,VIC
+2012,r14g4,Gold Coast,40,Metricon,QLD
+2012,r14g5,Greater Western Sydney,38,Sydney Showground,NSW
+2012,r14g6,Western Bulldogs,56,Docklands,VIC
+2012,r14g7,Port Adelaide,61,Adelaide Oval,SA
+2012,r14g8,Melbourne,61,MCG,VIC
+2012,r14g9,North Melbourne,136,Docklands,VIC
+2012,r15g1,Carlton,85,Docklands,VIC
+2012,r15g2,West Coast,86,Perth Stadium,WA
+2012,r15g3,Richmond,101,MCG,VIC
+2012,r15g4,Brisbane,63,Gabba,QLD
+2012,r15g5,Adelaide,116,Adelaide Oval,SA
+2012,r15g6,Essendon,62,Docklands,VIC
+2012,r15g7,Greater Western Sydney,31,Sydney Showground,NSW
+2012,r15g8,Geelong,110,Kardinia Park,VIC
+2012,r15g9,Western Bulldogs,57,Docklands,VIC
+2012,r16g1,Carlton,96,Docklands,VIC
+2012,r16g2,Fremantle,117,Perth Stadium,WA
+2012,r16g3,Essendon,127,Docklands,VIC
+2012,r16g4,Gold Coast,90,Metricon,QLD
+2012,r16g5,St. Kilda,105,Docklands,VIC
+2012,r16g6,Collingwood,110,MCG,VIC
+2012,r16g7,Adelaide,178,Adelaide Oval,SA
+2012,r16g8,Hawthorn,116,MCG,VIC
+2012,r16g9,Sydney,121,SCG,NSW
+2012,r17g1,Essendon,67,Docklands,VIC
+2012,r17g2,Hawthorn,138,MCG,VIC
+2012,r17g3,West Coast,75,Perth Stadium,WA
+2012,r17g4,Brisbane,59,Gabba,QLD
+2012,r17g5,Port Adelaide,84,Adelaide Oval,SA
+2012,r17g6,Carlton,102,Docklands,VIC
+2012,r17g7,St. Kilda,76,Docklands,VIC
+2012,r17g8,North Melbourne,103,Docklands,VIC
+2012,r17g9,Greater Western Sydney,37,Sydney Showground,NSW
+2012,r18g1,Hawthorn,180,MCG,VIC
+2012,r18g2,Adelaide,75,Adelaide Oval,SA
+2012,r18g3,Melbourne,73,MCG,VIC
+2012,r18g4,Collingwood,174,MCG,VIC
+2012,r18g5,Sydney,126,SCG,NSW
+2012,r18g6,Richmond,91,MCG,VIC
+2012,r18g7,Fremantle,75,Perth Stadium,WA
+2012,r18g8,Western Bulldogs,42,Docklands,VIC
+2012,r18g9,Brisbane,77,Gabba,QLD
+2012,r19g1,Geelong,118,Kardinia Park,VIC
+2012,r19g2,North Melbourne,115,Docklands,VIC
+2012,r19g3,Port Adelaide,73,Adelaide Oval,SA
+2012,r19g4,West Coast,48,Perth Stadium,WA
+2012,r19g5,Richmond,432,MCG,VIC
+2012,r19g6,St. Kilda,85,Docklands,VIC
+2012,r19g7,Gold Coast,66,Metricon,QLD
+2012,r19g8,Sydney,93,SCG,NSW
+2012,r19g9,Essendon,100,Docklands,VIC
+2012,r20g1,Geelong,97,Kardinia Park,VIC
+2012,r20g2,Melbourne,82,MCG,VIC
+2012,r20g3,Fremantle,91,Perth Stadium,WA
+2012,r20g4,Greater Western Sydney,79,Sydney Showground,NSW
+2012,r20g5,Brisbane,77,Gabba,QLD
+2012,r20g6,Collingwood,78,MCG,VIC
+2012,r20g7,Port Adelaide,87,Adelaide Oval,SA
+2012,r20g8,Western Bulldogs,80,Docklands,VIC
+2012,r20g9,North Melbourne,100,Docklands,VIC
+2012,r21g1,St. Kilda,81,Docklands,VIC
+2012,r21g2,Carlton,156,Docklands,VIC
+2012,r21g3,Melbourne,84,MCG,VIC
+2012,r21g4,Richmond,72,MCG,VIC
+2012,r21g5,Adelaide,85,Adelaide Oval,SA
+2012,r21g6,North Melbourne,91,Docklands,VIC
+2012,r21g7,West Coast,98,Perth Stadium,WA
+2012,r21g8,Sydney,167,SCG,NSW
+2012,r21g9,Gold Coast,65,Metricon,QLD
+2012,r22g1,Essendon,57,Docklands,VIC
+2012,r22g2,Greater Western Sydney,35,Sydney Showground,NSW
+2012,r22g3,Brisbane,104,Gabba,QLD
+2012,r22g4,Hawthorn,102,MCG,VIC
+2012,r22g5,Carlton,86,Docklands,VIC
+2012,r22g6,Collingwood,58,MCG,VIC
+2012,r22g7,Western Bulldogs,73,Docklands,VIC
+2012,r22g8,Fremantle,132,Perth Stadium,WA
+2012,r22g9,Adelaide,150,Adelaide Oval,SA
+2012,r23g1,West Coast,70,Perth Stadium,WA
+2012,r23g2,Sydney,78,SCG,NSW
+2012,r23g3,Gold Coast,62,Metricon,QLD
+2012,r23g4,North Melbourne,105,Docklands,VIC
+2012,r23g5,Melbourne,40,MCG,VIC
+2012,r23g6,Collingwood,104,MCG,VIC
+2012,r23g7,St. Kilda,106,Docklands,VIC
+2012,r23g8,Port Adelaide,106,Adelaide Oval,SA
+2012,r23g9,Western Bulldogs,61,Docklands,VIC
