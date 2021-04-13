@@ -1,40 +1,40 @@
 Year,Round,Game,Away,Away Score,Home Field-A,Away State,LP-A
-2021,round1,Game1,Carlton,,MCG,VIC,
-2021,round1,Game2,Western Bulldogs,,Docklands,VIC,
-2021,round1,Game3,Fremantle,,Perth Stadium,WA,
-2021,round1,Game4,Geelong,,Kardinia Park,VIC,
-2021,round1,Game5,Hawthorn,,MCG,VIC,
-2021,round1,Game6,Sydney,,SCG,NSW,
-2021,round1,Game7,Port Adelaide,,Adelaide Oval,SA,
-2021,round1,Game8,St. Kilda,,Docklands,VIC,
-2021,round1,Game9,Gold Coast,,Metricon,VIC,
-2021,round2,Game1,Collingwood,,MCG,VIC,
-2021,round2,Game2,Brisbane,,Gabba,QLD,
-2021,round2,Game3,Adelaide,,Adelaide Oval,SA,
-2021,round2,Game4,Essendon,,Docklands,VIC,
-2021,round2,Game5,Melbourne,,MCG,VIC,
-2021,round2,Game6,North Melbourne,,Docklands,VIC,
-2021,round2,Game7,Richmond,,MCG,VIC,
-2021,round2,Game8,West Coast,,Perth Stadium,WA,
-2021,round2,Game9,Greater Western Sydney,,Sydney Showground,NSW,
-2021,round3,Game1,Collingwood,,MCG,VIC,
-2021,round3,Game2,Western Bulldogs,,Docklands,VIC,
-2021,round3,Game3,Gold Coast,,Metricon,QLD,
-2021,round3,Game4,Sydney,,SCG,NSW,
-2021,round3,Game5,St. Kilda,,Docklands,VIC,
-2021,round3,Game6,Port Adelaide,,Adelaide Oval,SA,
-2021,round3,Game7,Fremantle,,Perth Stadium,WA,
-2021,round3,Game8,Melbourne,,MCG,VIC,
-2021,round3,Game9,Hawthorn,,MCG,VIC,
-2021,round4,Game1,Essendon,,Docklands,VIC,
-2021,round4,Game2,Richmond,,MCG,VIC,
-2021,round4,Game3,Brisbane,,Docklands,NSW,
-2021,round4,Game4,West Coast,,Perth Stadium,QLD,
-2021,round4,Game5,Carlton,,MCG,VIC,
-2021,round4,Game6,Greater Western Sydney,,Sydney Showground,NSW,
-2021,round4,Game7,Adelaide,,Adelaide Oval,SA,
-2021,round4,Game8,Geelong,,MCG,VIC,
-2021,round4,Game9,Hawthorn,,MCG,VIC,
+2021,round1,Game1,Carlton,80,MCG,VIC,11
+2021,round1,Game2,Western Bulldogs,69,Docklands,VIC,7
+2021,round1,Game3,Fremantle,58,Perth Stadium,WA,12
+2021,round1,Game4,Geelong,91,Kardinia Park,VIC,4
+2021,round1,Game5,Hawthorn,92,MCG,VIC,15
+2021,round1,Game6,Sydney,125,SCG,NSW,16
+2021,round1,Game7,Port Adelaide,117,Adelaide Oval,SA,1
+2021,round1,Game8,St. Kilda,86,Docklands,VIC,6
+2021,round1,Game9,Gold Coast,58,Metricon,VIC,17
+2021,round2,Game1,Collingwood,106,MCG,VIC,13
+2021,round2,Game2,Brisbane,80,Gabba,QLD,15
+2021,round2,Game3,Adelaide,88,Adelaide Oval,SA,7
+2021,round2,Game4,Essendon,65,Docklands,VIC,10
+2021,round2,Game5,Melbourne,91,MCG,VIC,3
+2021,round2,Game6,North Melbourne,39,Docklands,VIC,18
+2021,round2,Game7,Richmond,78,MCG,VIC,5
+2021,round2,Game8,West Coast,93,Perth Stadium,WA,2
+2021,round2,Game9,Greater Western Sydney,56,Sydney Showground,NSW,11
+2021,round3,Game1,Collingwood,72,MCG,VIC,9
+2021,round3,Game2,Western Bulldogs,167,Docklands,VIC,5
+2021,round3,Game3,Gold Coast,85,Metricon,QLD,6
+2021,round3,Game4,Sydney,117,SCG,NSW,3
+2021,round3,Game5,St. Kilda,68,Docklands,VIC,10
+2021,round3,Game6,Port Adelaide,71,Adelaide Oval,SA,1
+2021,round3,Game7,Fremantle,64,Perth Stadium,WA,8
+2021,round3,Game8,Melbourne,102,MCG,VIC,4
+2021,round3,Game9,Hawthorn,64,MCG,VIC,13
+2021,round4,Game1,Essendon,80,Docklands,VIC,10
+2021,round4,Game2,Richmond,77,MCG,VIC,6
+2021,round4,Game3,Brisbane,54,Docklands,NSW,13
+2021,round4,Game4,West Coast,82,Perth Stadium,QLD,5
+2021,round4,Game5,Carlton,70,MCG,VIC,12
+2021,round4,Game6,Greater Western Sydney,90,Sydney Showground,NSW,17
+2021,round4,Game7,Adelaide,109,Adelaide Oval,SA,8
+2021,round4,Game8,Geelong,60,MCG,VIC,7
+2021,round4,Game9,Hawthorn,81,MCG,VIC,14
 2021,round5,Game1,Richmond,,MCG,VIC,
 2021,round5,Game2,Collingwood,,MCG,VIC,
 2021,round5,Game3,Gold Coast,,Metricon,QLD,
