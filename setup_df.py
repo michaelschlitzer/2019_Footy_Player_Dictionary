@@ -6,7 +6,7 @@ class Setup:
     '''
         this is only valid for 2012 and after, when AFL expanded to the current 18 teams.
         
-        file should be a json file
+        file should be a json file that matches the time frame
         date_range should be a list of 4 digit integer years [2012, 2013, etc.]
         The list of teams is loaded in the function.  It is a constant from 2012 on.
 
@@ -163,3 +163,181 @@ class Setup:
         self.master_seasonPI_df['Season'] = pd.to_numeric(self.master_seasonPI_df['Season'])
 
         return self.master_seasonPI_df
+
+# New Class to set up Home-Away for all PI
+
+class Home_Away:
+
+	def __init__(self, home_fixture, away_fixture, master_df):
+        
+        self.home_fixture = home_fixture
+        self.away_fixture = away_fixture
+        self.master_df = master_df
+
+	def home_away_setup(self):
+	    '''
+	    This takes a df of the fixtures, broken out by home and away and then combines them, using
+	    the data from the master_df that was created with all of the PI for each season
+	    
+	    '''
+	    # import pandas as pd
+
+	    self.home_fixture.replace({'Greater Western Sydney': 'GWS'}, inplace = True)
+	    self.away_fixture.replace({'Greater Western Sydney': 'GWS'}, inplace = True)
+
+	    self.home_fixture['Game'] = self.home_fixture['Game'].str.lstrip(string.digits)
+	    self.away_fixture['Game'] = self.away_fixture['Game'].str.lstrip(string.digits)
+
+	    self.home_fixture.sort_values(by = ['Year', 'Round', 'Game'], axis = 0, ignore_index = True, inplace = True)
+	    self.away_fixture.sort_values(by = ['Year', 'Round', 'Game'], axis = 0, ignore_index = True, inplace = True)
+
+	    self.home_list = pd.merge(self.home_fixture, self.master_df, how = 'left', left_on = ['Year', 'Home', 'Round'],
+	    	right_on = ['Season', 'Team', 'Round'])
+	    self.away_list = pd.merge(self.away_fixture, self.master_df, how = 'left', left_on = ['Year', 'Away', 'Round'],
+	    	right_on = ['Season', 'Team', 'Round'])
+
+	    self.away_list.drop(['Team', 'Season'], axis = 1, inplace = True)
+	    self.home_list.drop(['Team', 'Season'], axis = 1, inplace = True)
+	    
+	    home_list_stats = self.home_list.iloc[:,9:]
+	    away_list_stats = self.away_list.iloc[:,8:]
+
+	    home_list_info = self.home_list.iloc[:,:9]
+	    away_list_info = self.away_list.iloc[:,:8]
+
+
+	    # This is the key of the analysis, I subtract the away PI from the home PI
+	    home_away_net = home_list_stats.subtract(away_list_stats, fill_value = None)
+
+
+	    # Here I merge the info for each match together and create the Relative Ladder Position (RLP) column
+	    # and manually set up categorical variables, rather than using one hot encoding
+	    info = home_list_info.merge(away_list_info, how = 'left', left_index = True, right_index = True)
+
+	    info['RLP'] = info['LP-H'] - info['LP-A']
+
+	    condition1 = info['Venue'] == info['Home Field-H'] 
+	    condition2 = info['Home Field-H'] == info['Home Field-A']
+
+	    condition3 = info['Venue'] != info['Home Field-H'] 
+	    condition4 = info['Home Field-H'] != info['Home Field-A']
+
+
+	    (info['Net Score'], info['Intrastate'], info['Same / Neutral Venue']) = \
+	    ((info['Home Score'] - info['Away Score']), np.where(info['Home State'] == info['Away State'], 0, 1), 
+	     np.where((condition1 & condition2) | (condition3 & condition4), 1, 0))
+
+	    info['Clash'] = np.where((info['Intrastate'] == 0) & (info['Same / Neutral Venue'] == 1), 1, 0)
+	    # info['Winner'] = np.where(info['Net Score'] >0, 'Home', 'Away')
+
+	    ###
+
+	    conditions = [info['Net Score'] > 0, info['Net Score'] < 0, info['Net Score'] == 0]
+	    choices = ['Home', 'Away', 'Draw']
+
+	    info['Winner'] = np.select(conditions, choices, default = np.nan)
+
+	    ###
+
+	    # Here I reconstruct and finalize the information portion of the dataframe, merge it with the PI, and then reorder it.
+
+	    info = info[['Year_x','Home', 'Away', 'Intrastate', 'Same / Neutral Venue', 'Clash', 'RLP','Net Score', 'Winner']]
+	    info = info.rename(columns = {'Year_x': 'Season'})
+
+	    home_away_net_complete = home_away_net.join(info)
+
+	    home_away_net_complete['Round'] = home_list_info['Round']
+	    home_away_net_complete['Game'] = home_list_info['Game']
+
+	    col = home_away_net_complete.pop('Round')
+	    home_away_net_complete.insert(0, col.name, col)
+	    col = home_away_net_complete.pop('Game')
+	    home_away_net_complete.insert(0, col.name, col)
+	    col = home_away_net_complete.pop('Season')
+	    home_away_net_complete.insert(0, col.name, col)
+	    col = home_away_net_complete.pop('Away')
+	    home_away_net_complete.insert(0, col.name, col)
+	    col = home_away_net_complete.pop('Home')
+	    home_away_net_complete.insert(0, col.name, col)
+	    
+	    d_cols = [col for col in master_df.columns if col.startswith('D-')]
+	    f_cols = [col for col in master_df.columns if col.startswith('F-')]
+	    m_cols = [col for col in master_df.columns if col.startswith('M-')]
+	    r_cols = [col for col in master_df.columns if col.startswith('R-')]
+
+	    hd = home_list_stats[d_cols]
+	    af = away_list_stats[f_cols]
+	    hf = home_list_stats[f_cols]
+	    ad = away_list_stats[d_cols]
+	    new_computed_column_basis = ['DI', 'KI', 'MK', 'HB', 'GL', 'BH', 'HO', 'TK', 'RB', 'IF', 'CL', 'CG', 'FF', 'FA', 'CP',
+	                                 'UP', 'CM', 'MI', '1%', 'BO', 'AMG', 'GA', 'Height', 'Weight', 'Age']
+
+	    new_posgru = [hd, af, hf, ad]
+
+	    for npg in new_posgru:
+	        npg.columns = new_computed_column_basis
+
+	    hdaf = hd - af
+	    hfad = hf - ad
+	    ####
+	    pos_prefixes = ['HDAF', 'HFAD']
+
+	    new_delta_headers = []
+	    for pos in pos_prefixes:
+	        for stat in new_computed_column_basis:
+	            new_col_head = pos+'-'+stat
+	            new_delta_headers.append(new_col_head)
+	    hdaf_headers = new_delta_headers[:25]
+	    hfad_headers = new_delta_headers[25:]
+
+	    hdaf.columns = hdaf_headers
+	    hfad.columns = hfad_headers
+
+	    hdaf_avmg = home_list_stats['D-AMG'] - away_list_stats['F-AMG']
+	    hfad_avmg = home_list_stats['F-AMG'] - away_list_stats['D-AMG']
+	    ####
+
+	    pos_dfs = [hdaf, hfad]
+
+	    for pp, pd in zip(pos_prefixes, pos_dfs):
+	        pd[pp+'-TM'] = pd[pp+'-MK'] + pd[pp+'-CM'] + pd[pp+'-MI']
+	        pd[pp+'-TP'] = pd[pp+'-CP'] + pd[pp+'-UP']
+	        pd[pp+'-TT'] = pd[pp+'-FA'] + pd[pp+'-CG']
+
+	    hdaf_short = hdaf[['HDAF-TM', 'HDAF-TP', 'HDAF-FF', 'HDAF-TT', 'HDAF-Height', 'HDAF-Weight', 'HDAF-Age']]
+	    hfad_short = hfad[['HFAD-TM', 'HFAD-TP', 'HFAD-FF', 'HFAD-TT', 'HFAD-Height', 'HFAD-Weight', 'HFAD-Age']]
+
+	    short_stack = hfad_short.join(hdaf_short)
+
+	    # I need to move these special columns to the end.
+	    home_away_net_complete = home_away_net_complete.join(short_stack)
+
+	    # Here I'm just re-ordering my columns to make it easier to normalize later.
+
+	    home_away_net_complete = home_away_net_complete[['Home', 'Away', 'Season', 'Game', 'Round', 'D-DI', 'D-KI', 'D-MK', 'D-HB', 
+	                                                     'D-GL', 'D-BH', 'D-HO', 'D-TK', 'D-RB', 'D-IF', 'D-CL', 'D-CG', 'D-FF', 
+	                                                     'D-FA', 'D-CP', 'D-UP', 'D-CM', 'D-MI', 'D-1%', 'D-BO', 'D-AMG','D-GA', 'D-Height', 
+	                                                     'D-Weight', 'D-Age', 'F-DI', 'F-KI', 'F-MK', 'F-HB', 'F-GL', 'F-BH', 'F-HO', 
+	                                                     'F-TK', 'F-RB', 'F-IF', 'F-CL', 'F-CG', 'F-FF', 'F-FA', 'F-CP', 'F-UP', 
+	                                                     'F-CM', 'F-MI', 'F-1%', 'F-BO', 'F-AMG','F-GA', 'F-Height', 'F-Weight', 'F-Age', 
+	                                                     'M-DI', 'M-KI', 'M-MK', 'M-HB', 'M-GL', 'M-BH', 'M-HO', 'M-TK', 'M-RB', 
+	                                                     'M-IF', 'M-CL', 'M-CG', 'M-FF', 'M-FA', 'M-CP', 'M-UP', 'M-CM', 'M-MI', 
+	                                                     'M-1%', 'M-BO', 'M-AMG','M-GA', 'M-Height', 'M-Weight', 'M-Age', 'R-DI', 'R-KI', 
+	                                                     'R-MK', 'R-HB', 'R-GL', 'R-BH', 'R-HO', 'R-TK', 'R-RB', 'R-IF', 'R-CL', 
+	                                                     'R-CG', 'R-FF', 'R-FA', 'R-CP', 'R-UP', 'R-CM', 'R-MI', 'R-1%', 'R-BO', 'R-AMG',
+	                                                     'R-GA', 'R-Height', 'R-Weight', 'R-Age', 'HFAD-TM', 'HFAD-TP', 'HFAD-FF', 
+	                                                     'HFAD-TT', 'HFAD-Height', 'HFAD-Weight', 'HFAD-Age', 'HDAF-TM', 'HDAF-TP',
+	                                                     'HDAF-FF', 'HDAF-TT', 'HDAF-Height', 'HDAF-Weight', 'HDAF-Age', 'Intrastate',
+	                                                     'Same / Neutral Venue', 'Clash', 'RLP', 'Net Score', 'Winner']]
+	    
+	    home_away_net_complete.drop(home_away_net_complete[home_away_net_complete['Winner'] == 'Draw'].index, inplace = True)
+
+	    # Here I eliminate all goal-scoring features (Goals, Behinds, and Goal Assists)
+
+	    han_cols = home_away_net_complete.columns
+	    no_goals = [g for g in han_cols if g.endswith(('GL', 'BH', 'GA'))]
+
+	    home_away_net_complete_AMG_ng = home_away_net_complete.drop(no_goals, axis = 1)
+
+	    
+	    return home_away_net_complete_AMG_ng
