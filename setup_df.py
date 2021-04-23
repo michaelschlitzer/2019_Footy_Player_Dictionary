@@ -168,6 +168,7 @@ class Setup:
 # New Class to set up Home-Away for all PI
 
 class Home_Away:
+	import string
 
 	def __init__(self, home_fixture, away_fixture, master_df):
         
