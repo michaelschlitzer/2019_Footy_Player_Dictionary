@@ -187,8 +187,8 @@ class Home_Away:
 	    self.home_fixture.replace({'Greater Western Sydney': 'GWS'}, inplace = True)
 	    self.away_fixture.replace({'Greater Western Sydney': 'GWS'}, inplace = True)
 
-	    self.home_fixture['Game'] = self.home_fixture['Game'].str.lstrip(string.digits)
-	    self.away_fixture['Game'] = self.away_fixture['Game'].str.lstrip(string.digits)
+	    self.home_fixture['Game'] = self.home_fixture['Game'].str.lstrip(str.digits)
+	    self.away_fixture['Game'] = self.away_fixture['Game'].str.lstrip(str.digits)
 
 	    self.home_fixture.sort_values(by = ['Year', 'Round', 'Game'], axis = 0, ignore_index = True, inplace = True)
 	    self.away_fixture.sort_values(by = ['Year', 'Round', 'Game'], axis = 0, ignore_index = True, inplace = True)
