@@ -170,9 +170,9 @@ class Home_Away:
 
 	def __init__(self, home_fixture, away_fixture, master_df):
         
-        self.home_fixture = home_fixture
-        self.away_fixture = away_fixture
-        self.master_df = master_df
+            self.home_fixture = home_fixture
+            self.away_fixture = away_fixture
+            self.master_df = master_df
 
 	def home_away_setup(self):
 	    '''
