@@ -14,8 +14,4 @@ I take this information and save it as a JSON file, which you can pick up just b
 
 Capstone File
 
-Here, I begin by reading the JSON file that I created in the Prepatory Work file and convert that nested dictionary into a flat data frame with every game in every season stacked on top of the other.
-
-Here, I have to do some cleanup for one POS, the Ruck.  Most teams only carry one Ruck and so, if the Ruck sustains an injury, they have to press another position player into that role.  There are enough games throughout the sample where there are no Ruck stats.  It is clear that the Ruck role must be filled, and the primary, unique PI for a Ruck is the Hit Out (HO).  So, I computed the average number of HO for all other position groups when there was a ruck in the game and, moved the difference between the Forward or Defender HO and that average number over to the Ruck slot for HO.  If the number was extremely low (this only happened in two cases), I only subtracted 1 HO from the other POS and moved it to the Ruck column.  Then, for biometric data I took the average (if the HO were shared between POS) or the same number (if only one POS filled the Ruck role).
-
-So, at this point, I have a dataframe with 3,472 rows (representing individual games) and  99 features with three features being identifiers (Season, Team, Round).
+This is the main file that you should run.  It pulls from all of the other files here, formats the dataframe and runs all of the different machine learning classifiers that are at the heart of the project.
